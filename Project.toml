@@ -3,6 +3,11 @@ uuid = "0d075a73-70d7-4af9-adcd-9b58c32029de"
 authors = ["Simone Silvestri"]
 version = "1.0.0-DEV"
 
+[deps]
+MPI = "da04e1cc-30fd-572f-bb4f-1f8673147195"
+MPIPreferences = "3da0fdf6-3ccc-4f1b-acd9-58baa6c99267"
+Oceananigans = "9e8cae18-63c1-5223-a75c-80ca9d6e9a09"
+
 [compat]
 julia = "1"
 
