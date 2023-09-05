@@ -1,0 +1,13 @@
+name = "LESscalingTests"
+uuid = "0d075a73-70d7-4af9-adcd-9b58c32029de"
+authors = ["Simone Silvestri"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
