@@ -1,0 +1,965 @@
+
+The following have been reloaded with a version change:
+  1) cuda/11.4 => cuda/11.4-5ncz6p4
+
+/var/spool/slurmd/job350376/slurm_script: line 18: test: ==: unary operator expected
+┌ Warning: CUDA runtime library libcudart.so.11.0 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcublasLt.so.11 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcudart.so.11.0 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcudart.so.11.0 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcublasLt.so.11 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcublasLt.so.11 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcudart.so.11.0 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcublasLt.so.11 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+[ Info: Oceananigans will use 16 threads
+[ Info: Oceananigans will use 16 threads
+[ Info: Oceananigans will use 16 threads
+[ Info: Oceananigans will use 16 threads
+┌ Warning: CUDA runtime library libcudart.so.11.0 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcublasLt.so.11 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcudart.so.11.0 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcudart.so.11.0 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcublasLt.so.11 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcublasLt.so.11 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcudart.so.11.0 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcublasLt.so.11 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcudart.so.11.0 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcublasLt.so.11 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcudart.so.11.0 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcublasLt.so.11 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcudart.so.11.0 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcublasLt.so.11 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcudart.so.11.0 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcublasLt.so.11 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+[ Info: Oceananigans will use 16 threads
+[ Info: Oceananigans will use 16 threads
+[ Info: Oceananigans will use 16 threads
+[ Info: Oceananigans will use 16 threads
+┌ Warning: CUDA runtime library libcudart.so.11.0 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcublasLt.so.11 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcudart.so.11.0 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcublasLt.so.11 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcudart.so.11.0 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcublasLt.so.11 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcudart.so.11.0 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcublasLt.so.11 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+[ Info: Initializing simulation...
+[ Info: Initializing simulation...
+[ Info: Initializing simulation...
+[ Info: Initializing simulation...
+[ Info: iteration: 0, wall time: 18.588 seconds 
+[ Info:     ... simulation initialization complete (13.964 seconds)
+[ Info: Executing initial time step...
+[ Info: iteration: 0, wall time: 18.498 seconds 
+[ Info:     ... simulation initialization complete (13.855 seconds)
+[ Info: Executing initial time step...
+[ Info: Initializing simulation...
+[ Info: Initializing simulation...
+[ Info: Initializing simulation...
+[ Info: Initializing simulation...
+[ Info: iteration: 0, wall time: 13.047 seconds 
+[ Info:     ... simulation initialization complete (8.451 seconds)
+[ Info: Executing initial time step...
+[ Info: iteration: 0, wall time: 13.111 seconds 
+[ Info:     ... simulation initialization complete (8.504 seconds)
+[ Info: Executing initial time step...
+[ Info: iteration: 0, wall time: 10.119 seconds 
+[ Info:     ... simulation initialization complete (4.572 seconds)
+[ Info: Executing initial time step...
+[ Info: iteration: 0, wall time: 10.109 seconds 
+[ Info:     ... simulation initialization complete (4.641 seconds)
+[ Info: Executing initial time step...
+[ Info: iteration: 0, wall time: 10.122 seconds 
+[ Info:     ... simulation initialization complete (4.578 seconds)
+[ Info: Executing initial time step...
+[ Info: iteration: 0, wall time: 10.100 seconds 
+[ Info:     ... simulation initialization complete (4.557 seconds)
+[ Info: Executing initial time step...
+[ Info:     ... initial time step complete (53.641 seconds).
+[ Info:     ... initial time step complete (53.640 seconds).
+[ Info:     ... initial time step complete (48.657 seconds).
+[ Info:     ... initial time step complete (48.723 seconds).
+[ Info:     ... initial time step complete (49.430 seconds).
+[ Info:     ... initial time step complete (49.408 seconds).
+[ Info:     ... initial time step complete (48.668 seconds).
+[ Info:     ... initial time step complete (48.691 seconds).
+[ Info: iteration: 10, wall time: 1.236 minutes 
+[ Info: iteration: 10, wall time: 1.236 minutes 
+[ Info: iteration: 10, wall time: 1.148 minutes 
+[ Info: iteration: 10, wall time: 1.149 minutes 
+[ Info: iteration: 10, wall time: 1.160 minutes 
+[ Info: iteration: 10, wall time: 1.160 minutes 
+[ Info: iteration: 10, wall time: 1.148 minutes 
+[ Info: iteration: 10, wall time: 1.148 minutes 
+[ Info: iteration: 20, wall time: 22.407 seconds 
+[ Info: iteration: 20, wall time: 22.295 seconds 
+[ Info: iteration: 20, wall time: 22.395 seconds 
+[ Info: iteration: 20, wall time: 22.397 seconds 
+[ Info: iteration: 20, wall time: 22.528 seconds 
+[ Info: iteration: 20, wall time: 22.405 seconds 
+[ Info: iteration: 20, wall time: 22.405 seconds 
+[ Info: iteration: 20, wall time: 22.405 seconds 
+[ Info: iteration: 30, wall time: 22.435 seconds 
+[ Info: iteration: 30, wall time: 22.531 seconds 
+[ Info: iteration: 30, wall time: 22.437 seconds 
+[ Info: iteration: 30, wall time: 22.436 seconds 
+[ Info: iteration: 30, wall time: 22.436 seconds 
+[ Info: iteration: 30, wall time: 22.435 seconds 
+[ Info: iteration: 30, wall time: 22.436 seconds 
+[ Info: iteration: 30, wall time: 22.435 seconds 
+[ Info: iteration: 40, wall time: 22.484 seconds 
+[ Info: iteration: 40, wall time: 22.388 seconds 
+[ Info: iteration: 40, wall time: 22.485 seconds 
+[ Info: iteration: 40, wall time: 22.485 seconds 
+[ Info: iteration: 40, wall time: 22.485 seconds 
+[ Info: iteration: 40, wall time: 22.483 seconds 
+[ Info: iteration: 40, wall time: 22.483 seconds 
+[ Info: iteration: 40, wall time: 22.483 seconds 
+[ Info: iteration: 50, wall time: 22.460 seconds 
+[ Info: iteration: 50, wall time: 22.566 seconds 
+[ Info: iteration: 50, wall time: 22.456 seconds 
+[ Info: iteration: 50, wall time: 22.456 seconds 
+[ Info: iteration: 50, wall time: 22.456 seconds 
+[ Info: iteration: 50, wall time: 22.459 seconds 
+[ Info: iteration: 50, wall time: 22.458 seconds 
+[ Info: iteration: 50, wall time: 22.458 seconds 
+[ Info: iteration: 60, wall time: 22.492 seconds 
+[ Info: iteration: 60, wall time: 22.388 seconds 
+[ Info: iteration: 60, wall time: 22.495 seconds 
+[ Info: iteration: 60, wall time: 22.495 seconds 
+[ Info: iteration: 60, wall time: 22.495 seconds 
+[ Info: iteration: 60, wall time: 22.495 seconds 
+[ Info: iteration: 60, wall time: 22.496 seconds 
+[ Info: iteration: 60, wall time: 22.496 seconds 
+[ Info: iteration: 70, wall time: 22.473 seconds 
+[ Info: iteration: 70, wall time: 22.569 seconds 
+[ Info: iteration: 70, wall time: 22.472 seconds 
+[ Info: iteration: 70, wall time: 22.472 seconds 
+[ Info: iteration: 70, wall time: 22.472 seconds 
+[ Info: iteration: 70, wall time: 22.472 seconds 
+[ Info: iteration: 70, wall time: 22.472 seconds 
+[ Info: iteration: 70, wall time: 22.472 seconds 
+[ Info: iteration: 80, wall time: 22.485 seconds 
+[ Info: iteration: 80, wall time: 22.486 seconds 
+[ Info: iteration: 80, wall time: 22.484 seconds 
+[ Info: iteration: 80, wall time: 22.483 seconds 
+[ Info: iteration: 80, wall time: 22.483 seconds 
+[ Info: iteration: 80, wall time: 22.487 seconds 
+[ Info: iteration: 80, wall time: 22.486 seconds 
+[ Info: iteration: 80, wall time: 22.486 seconds 
+[ Info: iteration: 90, wall time: 22.453 seconds 
+[ Info: iteration: 90, wall time: 22.365 seconds 
+[ Info: iteration: 90, wall time: 22.456 seconds 
+[ Info: iteration: 90, wall time: 22.451 seconds 
+[ Info: iteration: 90, wall time: 22.452 seconds 
+[ Info: iteration: 90, wall time: 22.452 seconds 
+[ Info: iteration: 90, wall time: 22.456 seconds 
+[ Info: iteration: 90, wall time: 22.456 seconds 
+[ Info: iteration: 100, wall time: 22.777 seconds 
+[ Info: iteration: 100, wall time: 22.680 seconds 
+[ Info: iteration: 100, wall time: 22.676 seconds 
+[ Info: iteration: 100, wall time: 22.696 seconds 
+[ Info: iteration: 100, wall time: 22.697 seconds 
+[ Info: iteration: 100, wall time: 22.705 seconds 
+[ Info: iteration: 100, wall time: 22.693 seconds 
+[ Info: iteration: 100, wall time: 22.785 seconds 
+[ Info: iteration: 110, wall time: 22.196 seconds 
+[ Info: iteration: 110, wall time: 22.199 seconds 
+[ Info: iteration: 110, wall time: 22.286 seconds 
+[ Info: iteration: 110, wall time: 22.298 seconds 
+[ Info: iteration: 110, wall time: 22.294 seconds 
+[ Info: iteration: 110, wall time: 22.296 seconds 
+[ Info: iteration: 110, wall time: 22.281 seconds 
+[ Info: iteration: 110, wall time: 22.281 seconds 
+[ Info: iteration: 120, wall time: 22.436 seconds 
+[ Info: iteration: 120, wall time: 22.301 seconds 
+[ Info: iteration: 120, wall time: 22.547 seconds 
+[ Info: iteration: 120, wall time: 22.428 seconds 
+[ Info: iteration: 120, wall time: 22.436 seconds 
+[ Info: iteration: 120, wall time: 22.428 seconds 
+[ Info: iteration: 120, wall time: 22.428 seconds 
+[ Info: iteration: 120, wall time: 22.434 seconds 
+[ Info: iteration: 130, wall time: 22.530 seconds 
+[ Info: iteration: 130, wall time: 22.509 seconds 
+[ Info: iteration: 130, wall time: 22.512 seconds 
+[ Info: iteration: 130, wall time: 22.647 seconds 
+[ Info: iteration: 130, wall time: 22.514 seconds 
+[ Info: iteration: 130, wall time: 22.532 seconds 
+[ Info: iteration: 130, wall time: 22.533 seconds 
+[ Info: iteration: 130, wall time: 22.533 seconds 
+[ Info: iteration: 140, wall time: 22.567 seconds 
+[ Info: iteration: 140, wall time: 22.545 seconds 
+[ Info: iteration: 140, wall time: 22.551 seconds 
+[ Info: iteration: 140, wall time: 22.550 seconds 
+[ Info: iteration: 140, wall time: 22.550 seconds 
+[ Info: iteration: 140, wall time: 22.544 seconds 
+[ Info: iteration: 140, wall time: 22.543 seconds 
+[ Info: iteration: 140, wall time: 22.544 seconds 
+[ Info: iteration: 150, wall time: 22.496 seconds 
+[ Info: iteration: 150, wall time: 22.429 seconds 
+[ Info: iteration: 150, wall time: 22.529 seconds 
+[ Info: iteration: 150, wall time: 22.523 seconds 
+[ Info: iteration: 150, wall time: 22.529 seconds 
+[ Info: iteration: 150, wall time: 22.529 seconds 
+[ Info: iteration: 150, wall time: 22.523 seconds 
+[ Info: iteration: 150, wall time: 22.523 seconds 
+[ Info: iteration: 160, wall time: 22.488 seconds 
+[ Info: iteration: 160, wall time: 22.593 seconds 
+[ Info: iteration: 160, wall time: 22.477 seconds 
+[ Info: iteration: 160, wall time: 22.473 seconds 
+[ Info: iteration: 160, wall time: 22.473 seconds 
+[ Info: iteration: 160, wall time: 22.485 seconds 
+[ Info: iteration: 160, wall time: 22.485 seconds 
+[ Info: iteration: 160, wall time: 22.485 seconds 
+[ Info: iteration: 170, wall time: 22.458 seconds 
+[ Info: iteration: 170, wall time: 22.445 seconds 
+[ Info: iteration: 170, wall time: 22.456 seconds 
+[ Info: iteration: 170, wall time: 22.460 seconds 
+[ Info: iteration: 170, wall time: 22.460 seconds 
+[ Info: iteration: 170, wall time: 22.459 seconds 
+[ Info: iteration: 170, wall time: 22.459 seconds 
+[ Info: iteration: 170, wall time: 22.459 seconds 
+[ Info: iteration: 180, wall time: 22.465 seconds 
+[ Info: iteration: 180, wall time: 22.369 seconds 
+[ Info: iteration: 180, wall time: 22.353 seconds 
+[ Info: iteration: 180, wall time: 22.467 seconds 
+[ Info: iteration: 180, wall time: 22.465 seconds 
+[ Info: iteration: 180, wall time: 22.458 seconds 
+[ Info: iteration: 180, wall time: 22.458 seconds 
+[ Info: iteration: 180, wall time: 22.458 seconds 
+[ Info: iteration: 190, wall time: 22.485 seconds 
+[ Info: iteration: 190, wall time: 22.575 seconds 
+[ Info: iteration: 190, wall time: 22.484 seconds 
+[ Info: iteration: 190, wall time: 22.598 seconds 
+[ Info: iteration: 190, wall time: 22.486 seconds 
+[ Info: iteration: 190, wall time: 22.490 seconds 
+[ Info: iteration: 190, wall time: 22.490 seconds 
+[ Info: iteration: 190, wall time: 22.490 seconds 
+[ Info: iteration: 200, wall time: 22.841 seconds 
+[ Info: iteration: 200, wall time: 22.753 seconds 
+[ Info: iteration: 200, wall time: 22.745 seconds 
+[ Info: iteration: 200, wall time: 22.755 seconds 
+[ Info: iteration: 200, wall time: 22.756 seconds 
+[ Info: iteration: 200, wall time: 22.766 seconds 
+[ Info: iteration: 200, wall time: 22.754 seconds 
+[ Info: iteration: 200, wall time: 22.760 seconds 
+[ Info: iteration: 210, wall time: 22.178 seconds 
+[ Info: iteration: 210, wall time: 22.267 seconds 
+[ Info: iteration: 210, wall time: 22.251 seconds 
+[ Info: iteration: 210, wall time: 22.260 seconds 
+[ Info: iteration: 210, wall time: 22.261 seconds 
+[ Info: iteration: 210, wall time: 22.274 seconds 
+[ Info: iteration: 210, wall time: 22.265 seconds 
+[ Info: iteration: 210, wall time: 22.259 seconds 
+[ Info: iteration: 220, wall time: 22.278 seconds 
+[ Info: iteration: 220, wall time: 22.421 seconds 
+[ Info: iteration: 220, wall time: 22.410 seconds 
+[ Info: iteration: 220, wall time: 22.404 seconds 
+[ Info: iteration: 220, wall time: 22.404 seconds 
+[ Info: iteration: 220, wall time: 22.404 seconds 
+[ Info: iteration: 220, wall time: 22.421 seconds 
+[ Info: iteration: 220, wall time: 22.419 seconds 
+[ Info: iteration: 230, wall time: 22.421 seconds 
+[ Info: iteration: 230, wall time: 22.434 seconds 
+[ Info: iteration: 230, wall time: 22.435 seconds 
+[ Info: iteration: 230, wall time: 22.435 seconds 
+[ Info: iteration: 230, wall time: 22.435 seconds 
+[ Info: iteration: 230, wall time: 22.416 seconds 
+[ Info: iteration: 230, wall time: 22.559 seconds 
+[ Info: iteration: 230, wall time: 22.418 seconds 
+[ Info: iteration: 240, wall time: 22.455 seconds 
+[ Info: iteration: 240, wall time: 22.355 seconds 
+[ Info: iteration: 240, wall time: 22.458 seconds 
+[ Info: iteration: 240, wall time: 22.458 seconds 
+[ Info: iteration: 240, wall time: 22.458 seconds 
+[ Info: iteration: 240, wall time: 22.458 seconds 
+[ Info: iteration: 240, wall time: 22.457 seconds 
+[ Info: iteration: 240, wall time: 22.457 seconds 
+[ Info: iteration: 250, wall time: 22.566 seconds 
+[ Info: iteration: 250, wall time: 22.642 seconds 
+[ Info: iteration: 250, wall time: 22.534 seconds 
+[ Info: iteration: 250, wall time: 22.534 seconds 
+[ Info: iteration: 250, wall time: 22.536 seconds 
+[ Info: iteration: 250, wall time: 22.549 seconds 
+[ Info: iteration: 250, wall time: 22.536 seconds 
+[ Info: iteration: 250, wall time: 22.536 seconds 
+[ Info: iteration: 260, wall time: 22.445 seconds 
+[ Info: iteration: 260, wall time: 22.369 seconds 
+[ Info: iteration: 260, wall time: 22.476 seconds 
+[ Info: iteration: 260, wall time: 22.477 seconds 
+[ Info: iteration: 260, wall time: 22.462 seconds 
+[ Info: iteration: 260, wall time: 22.474 seconds 
+[ Info: iteration: 260, wall time: 22.474 seconds 
+[ Info: iteration: 260, wall time: 22.474 seconds 
+[ Info: iteration: 270, wall time: 22.479 seconds 
+[ Info: iteration: 270, wall time: 22.587 seconds 
+[ Info: iteration: 270, wall time: 22.482 seconds 
+[ Info: iteration: 270, wall time: 22.482 seconds 
+[ Info: iteration: 270, wall time: 22.482 seconds 
+[ Info: iteration: 270, wall time: 22.484 seconds 
+[ Info: iteration: 270, wall time: 22.484 seconds 
+[ Info: iteration: 270, wall time: 22.484 seconds 
+[ Info: iteration: 280, wall time: 22.469 seconds 
+[ Info: iteration: 280, wall time: 22.389 seconds 
+[ Info: iteration: 280, wall time: 22.460 seconds 
+[ Info: iteration: 280, wall time: 22.460 seconds 
+[ Info: iteration: 280, wall time: 22.476 seconds 
+[ Info: iteration: 280, wall time: 22.476 seconds 
+[ Info: iteration: 280, wall time: 22.493 seconds 
+[ Info: iteration: 280, wall time: 22.476 seconds 
+[ Info: iteration: 290, wall time: 22.449 seconds 
+[ Info: iteration: 290, wall time: 22.520 seconds 
+[ Info: iteration: 290, wall time: 22.425 seconds 
+[ Info: iteration: 290, wall time: 22.442 seconds 
+[ Info: iteration: 290, wall time: 22.442 seconds 
+[ Info: iteration: 290, wall time: 22.458 seconds 
+[ Info: iteration: 290, wall time: 22.458 seconds 
+[ Info: iteration: 290, wall time: 22.441 seconds 
+[ Info: iteration: 300, wall time: 22.895 seconds 
+[ Info: iteration: 300, wall time: 22.804 seconds 
+[ Info: iteration: 300, wall time: 22.800 seconds 
+[ Info: iteration: 300, wall time: 22.808 seconds 
+[ Info: iteration: 300, wall time: 22.809 seconds 
+[ Info: iteration: 300, wall time: 22.818 seconds 
+[ Info: iteration: 300, wall time: 22.811 seconds 
+[ Info: iteration: 300, wall time: 22.816 seconds 
+[ Info: iteration: 310, wall time: 22.227 seconds 
+[ Info: iteration: 310, wall time: 22.191 seconds 
+[ Info: iteration: 310, wall time: 22.342 seconds 
+[ Info: iteration: 310, wall time: 22.316 seconds 
+[ Info: iteration: 310, wall time: 22.324 seconds 
+[ Info: iteration: 310, wall time: 22.341 seconds 
+[ Info: iteration: 310, wall time: 22.331 seconds 
+[ Info: iteration: 310, wall time: 22.326 seconds 
+[ Info: iteration: 320, wall time: 22.507 seconds 
+[ Info: iteration: 320, wall time: 22.485 seconds 
+[ Info: iteration: 320, wall time: 22.486 seconds 
+[ Info: iteration: 320, wall time: 22.619 seconds 
+[ Info: iteration: 320, wall time: 22.487 seconds 
+[ Info: iteration: 320, wall time: 22.494 seconds 
+[ Info: iteration: 320, wall time: 22.493 seconds 
+[ Info: iteration: 320, wall time: 22.493 seconds 
+[ Info: iteration: 330, wall time: 22.411 seconds 
+[ Info: iteration: 330, wall time: 22.310 seconds 
+[ Info: iteration: 330, wall time: 22.418 seconds 
+[ Info: iteration: 330, wall time: 22.419 seconds 
+[ Info: iteration: 330, wall time: 22.419 seconds 
+[ Info: iteration: 330, wall time: 22.403 seconds 
+[ Info: iteration: 330, wall time: 22.403 seconds 
+[ Info: iteration: 330, wall time: 22.403 seconds 
+[ Info: iteration: 340, wall time: 22.455 seconds 
+[ Info: iteration: 340, wall time: 22.564 seconds 
+[ Info: iteration: 340, wall time: 22.455 seconds 
+[ Info: iteration: 340, wall time: 22.455 seconds 
+[ Info: iteration: 340, wall time: 22.455 seconds 
+[ Info: iteration: 340, wall time: 22.456 seconds 
+[ Info: iteration: 340, wall time: 22.456 seconds 
+[ Info: iteration: 340, wall time: 22.456 seconds 
+[ Info: iteration: 350, wall time: 22.408 seconds 
+[ Info: iteration: 350, wall time: 22.397 seconds 
+[ Info: iteration: 350, wall time: 22.407 seconds 
+[ Info: iteration: 350, wall time: 22.407 seconds 
+[ Info: iteration: 350, wall time: 22.407 seconds 
+[ Info: iteration: 350, wall time: 22.406 seconds 
+[ Info: iteration: 350, wall time: 22.406 seconds 
+[ Info: iteration: 350, wall time: 22.406 seconds 
+[ Info: iteration: 360, wall time: 22.438 seconds 
+[ Info: iteration: 360, wall time: 22.435 seconds 
+[ Info: iteration: 360, wall time: 22.437 seconds 
+[ Info: iteration: 360, wall time: 22.436 seconds 
+[ Info: iteration: 360, wall time: 22.436 seconds 
+[ Info: iteration: 360, wall time: 22.441 seconds 
+[ Info: iteration: 360, wall time: 22.442 seconds 
+[ Info: iteration: 360, wall time: 22.442 seconds 
+[ Info: iteration: 370, wall time: 22.456 seconds 
+[ Info: iteration: 370, wall time: 22.359 seconds 
+[ Info: iteration: 370, wall time: 22.457 seconds 
+[ Info: iteration: 370, wall time: 22.457 seconds 
+[ Info: iteration: 370, wall time: 22.457 seconds 
+[ Info: iteration: 370, wall time: 22.453 seconds 
+[ Info: iteration: 370, wall time: 22.452 seconds 
+[ Info: iteration: 370, wall time: 22.452 seconds 
+[ Info: iteration: 380, wall time: 22.443 seconds 
+[ Info: iteration: 380, wall time: 22.446 seconds 
+[ Info: iteration: 380, wall time: 22.443 seconds 
+[ Info: iteration: 380, wall time: 22.443 seconds 
+[ Info: iteration: 380, wall time: 22.443 seconds 
+[ Info: iteration: 380, wall time: 22.446 seconds 
+[ Info: iteration: 380, wall time: 22.446 seconds 
+[ Info: iteration: 380, wall time: 22.446 seconds 
+[ Info: iteration: 390, wall time: 22.468 seconds 
+[ Info: iteration: 390, wall time: 22.566 seconds 
+[ Info: iteration: 390, wall time: 22.465 seconds 
+[ Info: iteration: 390, wall time: 22.465 seconds 
+[ Info: iteration: 390, wall time: 22.465 seconds 
+[ Info: iteration: 390, wall time: 22.466 seconds 
+[ Info: iteration: 390, wall time: 22.466 seconds 
+[ Info: iteration: 390, wall time: 22.466 seconds 
+[ Info: iteration: 400, wall time: 22.743 seconds 
+[ Info: iteration: 400, wall time: 22.649 seconds 
+[ Info: iteration: 400, wall time: 22.648 seconds 
+[ Info: iteration: 400, wall time: 22.663 seconds 
+[ Info: iteration: 400, wall time: 22.664 seconds 
+[ Info: iteration: 400, wall time: 22.660 seconds 
+[ Info: iteration: 400, wall time: 22.664 seconds 
+[ Info: iteration: 400, wall time: 22.691 seconds 
+[ Info: iteration: 410, wall time: 22.225 seconds 
+[ Info: iteration: 410, wall time: 22.309 seconds 
+[ Info: iteration: 410, wall time: 22.268 seconds 
+[ Info: iteration: 410, wall time: 22.297 seconds 
+[ Info: iteration: 410, wall time: 22.296 seconds 
+[ Info: iteration: 410, wall time: 22.328 seconds 
+[ Info: iteration: 410, wall time: 22.316 seconds 
+[ Info: iteration: 410, wall time: 22.312 seconds 
+[ Info: iteration: 420, wall time: 22.480 seconds 
+[ Info: iteration: 420, wall time: 22.488 seconds 
+[ Info: iteration: 420, wall time: 22.489 seconds 
+[ Info: iteration: 420, wall time: 22.489 seconds 
+[ Info: iteration: 420, wall time: 22.489 seconds 
+[ Info: iteration: 420, wall time: 22.476 seconds 
+[ Info: iteration: 420, wall time: 22.476 seconds 
+[ Info: iteration: 420, wall time: 22.476 seconds 
+[ Info: iteration: 430, wall time: 22.433 seconds 
+[ Info: iteration: 430, wall time: 22.535 seconds 
+[ Info: iteration: 430, wall time: 22.514 seconds 
+[ Info: iteration: 430, wall time: 22.539 seconds 
+[ Info: iteration: 430, wall time: 22.515 seconds 
+[ Info: iteration: 430, wall time: 22.515 seconds 
+[ Info: iteration: 430, wall time: 22.539 seconds 
+[ Info: iteration: 430, wall time: 22.539 seconds 
+[ Info: iteration: 440, wall time: 22.424 seconds 
+[ Info: iteration: 440, wall time: 22.531 seconds 
+[ Info: iteration: 440, wall time: 22.422 seconds 
+[ Info: iteration: 440, wall time: 22.421 seconds 
+[ Info: iteration: 440, wall time: 22.421 seconds 
+[ Info: iteration: 440, wall time: 22.441 seconds 
+[ Info: iteration: 440, wall time: 22.441 seconds 
+[ Info: iteration: 440, wall time: 22.441 seconds 
+[ Info: iteration: 450, wall time: 22.491 seconds 
+[ Info: iteration: 450, wall time: 22.496 seconds 
+[ Info: iteration: 450, wall time: 22.494 seconds 
+[ Info: iteration: 450, wall time: 22.495 seconds 
+[ Info: iteration: 450, wall time: 22.495 seconds 
+[ Info: iteration: 450, wall time: 22.488 seconds 
+[ Info: iteration: 450, wall time: 22.488 seconds 
+[ Info: iteration: 450, wall time: 22.488 seconds 
+[ Info: iteration: 460, wall time: 22.551 seconds 
+[ Info: iteration: 460, wall time: 22.548 seconds 
+[ Info: iteration: 460, wall time: 22.550 seconds 
+[ Info: iteration: 460, wall time: 22.550 seconds 
+[ Info: iteration: 460, wall time: 22.550 seconds 
+[ Info: iteration: 460, wall time: 22.557 seconds 
+[ Info: iteration: 460, wall time: 22.557 seconds 
+[ Info: iteration: 460, wall time: 22.557 seconds 
+[ Info: iteration: 470, wall time: 22.426 seconds 
+[ Info: iteration: 470, wall time: 22.325 seconds 
+[ Info: iteration: 470, wall time: 22.426 seconds 
+[ Info: iteration: 470, wall time: 22.426 seconds 
+[ Info: iteration: 470, wall time: 22.426 seconds 
+[ Info: iteration: 470, wall time: 22.428 seconds 
+[ Info: iteration: 470, wall time: 22.428 seconds 
+[ Info: iteration: 470, wall time: 22.429 seconds 
+[ Info: iteration: 480, wall time: 22.522 seconds 
+[ Info: iteration: 480, wall time: 22.626 seconds 
+[ Info: iteration: 480, wall time: 22.522 seconds 
+[ Info: iteration: 480, wall time: 22.522 seconds 
+[ Info: iteration: 480, wall time: 22.522 seconds 
+[ Info: iteration: 480, wall time: 22.517 seconds 
+[ Info: iteration: 480, wall time: 22.516 seconds 
+[ Info: iteration: 480, wall time: 22.516 seconds 
+[ Info: iteration: 490, wall time: 22.508 seconds 
+[ Info: iteration: 490, wall time: 22.428 seconds 
+[ Info: iteration: 490, wall time: 22.503 seconds 
+[ Info: iteration: 490, wall time: 22.507 seconds 
+[ Info: iteration: 490, wall time: 22.506 seconds 
+[ Info: iteration: 490, wall time: 22.507 seconds 
+[ Info: iteration: 490, wall time: 22.516 seconds 
+[ Info: iteration: 490, wall time: 22.515 seconds 
+[ Info: iteration: 500, wall time: 22.712 seconds 
+[ Info: iteration: 500, wall time: 22.621 seconds 
+[ Info: iteration: 500, wall time: 22.610 seconds 
+[ Info: iteration: 500, wall time: 22.633 seconds 
+[ Info: iteration: 500, wall time: 22.634 seconds 
+[ Info: iteration: 500, wall time: 22.640 seconds 
+[ Info: iteration: 500, wall time: 22.713 seconds 
+[ Info: iteration: 500, wall time: 22.628 seconds 
+[ Info: iteration: 510, wall time: 22.166 seconds 
+[ Info: iteration: 510, wall time: 22.254 seconds 
+[ Info: iteration: 510, wall time: 22.238 seconds 
+[ Info: iteration: 510, wall time: 22.244 seconds 
+[ Info: iteration: 510, wall time: 22.245 seconds 
+[ Info: iteration: 510, wall time: 22.258 seconds 
+[ Info: iteration: 510, wall time: 22.243 seconds 
+[ Info: iteration: 510, wall time: 22.241 seconds 
+[ Info: iteration: 520, wall time: 22.441 seconds 
+[ Info: iteration: 520, wall time: 22.444 seconds 
+[ Info: iteration: 520, wall time: 22.439 seconds 
+[ Info: iteration: 520, wall time: 22.439 seconds 
+[ Info: iteration: 520, wall time: 22.439 seconds 
+[ Info: iteration: 520, wall time: 22.449 seconds 
+[ Info: iteration: 520, wall time: 22.450 seconds 
+[ Info: iteration: 520, wall time: 22.450 seconds 
+[ Info: iteration: 530, wall time: 22.498 seconds 
+[ Info: iteration: 530, wall time: 22.491 seconds 
+[ Info: iteration: 530, wall time: 22.502 seconds 
+[ Info: iteration: 530, wall time: 22.502 seconds 
+[ Info: iteration: 530, wall time: 22.502 seconds 
+[ Info: iteration: 530, wall time: 22.486 seconds 
+[ Info: iteration: 530, wall time: 22.486 seconds 
+[ Info: iteration: 530, wall time: 22.486 seconds 
+[ Info: iteration: 540, wall time: 22.545 seconds 
+[ Info: iteration: 540, wall time: 22.564 seconds 
+[ Info: iteration: 540, wall time: 22.547 seconds 
+[ Info: iteration: 540, wall time: 22.545 seconds 
+[ Info: iteration: 540, wall time: 22.545 seconds 
+[ Info: iteration: 540, wall time: 22.554 seconds 
+[ Info: iteration: 540, wall time: 22.553 seconds 
+[ Info: iteration: 540, wall time: 22.553 seconds 
+[ Info: iteration: 550, wall time: 22.449 seconds 
+[ Info: iteration: 550, wall time: 22.324 seconds 
+[ Info: iteration: 550, wall time: 22.434 seconds 
+[ Info: iteration: 550, wall time: 22.449 seconds 
+[ Info: iteration: 550, wall time: 22.450 seconds 
+[ Info: iteration: 550, wall time: 22.450 seconds 
+[ Info: iteration: 550, wall time: 22.452 seconds 
+[ Info: iteration: 550, wall time: 22.450 seconds 
+[ Info: iteration: 560, wall time: 22.366 seconds 
+[ Info: iteration: 560, wall time: 22.457 seconds 
+[ Info: iteration: 560, wall time: 22.474 seconds 
+[ Info: iteration: 560, wall time: 22.464 seconds 
+[ Info: iteration: 560, wall time: 22.464 seconds 
+[ Info: iteration: 560, wall time: 22.464 seconds 
+[ Info: iteration: 560, wall time: 22.470 seconds 
+[ Info: iteration: 560, wall time: 22.470 seconds 
+[ Info: iteration: 570, wall time: 22.484 seconds 
+[ Info: iteration: 570, wall time: 22.598 seconds 
+[ Info: iteration: 570, wall time: 22.493 seconds 
+[ Info: iteration: 570, wall time: 22.493 seconds 
+[ Info: iteration: 570, wall time: 22.493 seconds 
+[ Info: iteration: 570, wall time: 22.483 seconds 
+[ Info: iteration: 570, wall time: 22.624 seconds 
+[ Info: iteration: 570, wall time: 22.484 seconds 
+[ Info: iteration: 580, wall time: 22.382 seconds 
+[ Info: iteration: 580, wall time: 22.282 seconds 
+[ Info: iteration: 580, wall time: 22.376 seconds 
+[ Info: iteration: 580, wall time: 22.375 seconds 
+[ Info: iteration: 580, wall time: 22.375 seconds 
+[ Info: iteration: 580, wall time: 22.389 seconds 
+[ Info: iteration: 580, wall time: 22.389 seconds 
+[ Info: iteration: 580, wall time: 22.389 seconds 
+[ Info: iteration: 590, wall time: 22.525 seconds 
+[ Info: iteration: 590, wall time: 22.529 seconds 
+[ Info: iteration: 590, wall time: 22.532 seconds 
+[ Info: iteration: 590, wall time: 22.531 seconds 
+[ Info: iteration: 590, wall time: 22.531 seconds 
+[ Info: iteration: 590, wall time: 22.521 seconds 
+[ Info: iteration: 590, wall time: 22.522 seconds 
+[ Info: iteration: 590, wall time: 22.521 seconds 
+[ Info: iteration: 600, wall time: 22.673 seconds 
+[ Info: iteration: 600, wall time: 22.670 seconds 
+[ Info: iteration: 600, wall time: 22.576 seconds 
+[ Info: iteration: 600, wall time: 22.588 seconds 
+[ Info: iteration: 600, wall time: 22.589 seconds 
+[ Info: iteration: 600, wall time: 22.599 seconds 
+[ Info: iteration: 600, wall time: 22.588 seconds 
+[ Info: iteration: 600, wall time: 22.589 seconds 
+[ Info: iteration: 610, wall time: 22.230 seconds 
+[ Info: iteration: 610, wall time: 22.321 seconds 
+[ Info: iteration: 610, wall time: 22.300 seconds 
+[ Info: iteration: 610, wall time: 22.313 seconds 
+[ Info: iteration: 610, wall time: 22.312 seconds 
+[ Info: iteration: 610, wall time: 22.327 seconds 
+[ Info: iteration: 610, wall time: 22.315 seconds 
+[ Info: iteration: 610, wall time: 22.314 seconds 
+[ Info: iteration: 620, wall time: 22.367 seconds 
+[ Info: iteration: 620, wall time: 22.368 seconds 
+[ Info: iteration: 620, wall time: 22.370 seconds 
+[ Info: iteration: 620, wall time: 22.369 seconds 
+[ Info: iteration: 620, wall time: 22.369 seconds 
+[ Info: iteration: 620, wall time: 22.364 seconds 
+[ Info: iteration: 620, wall time: 22.364 seconds 
+[ Info: iteration: 620, wall time: 22.364 seconds 
+[ Info: iteration: 630, wall time: 22.416 seconds 
+[ Info: iteration: 630, wall time: 22.430 seconds 
+[ Info: iteration: 630, wall time: 22.416 seconds 
+[ Info: iteration: 630, wall time: 22.416 seconds 
+[ Info: iteration: 630, wall time: 22.417 seconds 
+[ Info: iteration: 630, wall time: 22.420 seconds 
+[ Info: iteration: 630, wall time: 22.419 seconds 
+[ Info: iteration: 630, wall time: 22.419 seconds 
+[ Info: iteration: 640, wall time: 22.484 seconds 
+[ Info: iteration: 640, wall time: 22.480 seconds 
+[ Info: iteration: 640, wall time: 22.481 seconds 
+[ Info: iteration: 640, wall time: 22.481 seconds 
+[ Info: iteration: 640, wall time: 22.480 seconds 
+[ Info: iteration: 640, wall time: 22.482 seconds 
+[ Info: iteration: 640, wall time: 22.481 seconds 
+[ Info: iteration: 640, wall time: 22.481 seconds 
+[ Info: iteration: 650, wall time: 22.414 seconds 
+[ Info: iteration: 650, wall time: 22.308 seconds 
+[ Info: iteration: 650, wall time: 22.417 seconds 
+[ Info: iteration: 650, wall time: 22.418 seconds 
+[ Info: iteration: 650, wall time: 22.417 seconds 
+[ Info: iteration: 650, wall time: 22.433 seconds 
+[ Info: iteration: 650, wall time: 22.417 seconds 
+[ Info: iteration: 650, wall time: 22.417 seconds 
+[ Info: iteration: 660, wall time: 22.433 seconds 
+[ Info: iteration: 660, wall time: 22.434 seconds 
+[ Info: iteration: 660, wall time: 22.432 seconds 
+[ Info: iteration: 660, wall time: 22.417 seconds 
+[ Info: iteration: 660, wall time: 22.432 seconds 
+[ Info: iteration: 660, wall time: 22.431 seconds 
+[ Info: iteration: 660, wall time: 22.432 seconds 
+[ Info: iteration: 660, wall time: 22.432 seconds 
+[ Info: iteration: 670, wall time: 22.608 seconds 
+[ Info: iteration: 670, wall time: 22.610 seconds 
+[ Info: iteration: 670, wall time: 22.612 seconds 
+[ Info: iteration: 670, wall time: 22.630 seconds 
+[ Info: iteration: 670, wall time: 22.611 seconds 
+[ Info: iteration: 670, wall time: 22.611 seconds 
+[ Info: iteration: 670, wall time: 22.630 seconds 
+[ Info: iteration: 670, wall time: 22.630 seconds 
+[ Info: iteration: 680, wall time: 22.475 seconds 
+[ Info: iteration: 680, wall time: 22.492 seconds 
+[ Info: iteration: 680, wall time: 22.468 seconds 
+[ Info: iteration: 680, wall time: 22.475 seconds 
+[ Info: iteration: 680, wall time: 22.469 seconds 
+[ Info: iteration: 680, wall time: 22.469 seconds 
+[ Info: iteration: 680, wall time: 22.475 seconds 
+[ Info: iteration: 680, wall time: 22.475 seconds 
+[ Info: iteration: 690, wall time: 22.500 seconds 
+[ Info: iteration: 690, wall time: 22.615 seconds 
+[ Info: iteration: 690, wall time: 22.502 seconds 
+[ Info: iteration: 690, wall time: 22.502 seconds 
+[ Info: iteration: 690, wall time: 22.502 seconds 
+[ Info: iteration: 690, wall time: 22.512 seconds 
+[ Info: iteration: 690, wall time: 22.513 seconds 
+[ Info: iteration: 690, wall time: 22.512 seconds 
+[ Info: iteration: 700, wall time: 22.734 seconds 
+[ Info: iteration: 700, wall time: 22.645 seconds 
+[ Info: iteration: 700, wall time: 22.642 seconds 
+[ Info: iteration: 700, wall time: 22.651 seconds 
+[ Info: iteration: 700, wall time: 22.653 seconds 
+[ Info: iteration: 700, wall time: 22.659 seconds 
+[ Info: iteration: 700, wall time: 22.657 seconds 
+[ Info: iteration: 700, wall time: 22.658 seconds 
+[ Info: iteration: 710, wall time: 22.181 seconds 
+[ Info: iteration: 710, wall time: 22.212 seconds 
+[ Info: iteration: 710, wall time: 22.276 seconds 
+[ Info: iteration: 710, wall time: 22.282 seconds 
+[ Info: iteration: 710, wall time: 22.283 seconds 
+[ Info: iteration: 710, wall time: 22.312 seconds 
+[ Info: iteration: 710, wall time: 22.296 seconds 
+[ Info: iteration: 710, wall time: 22.295 seconds 
+[ Info: iteration: 720, wall time: 22.463 seconds 
+[ Info: iteration: 720, wall time: 22.580 seconds 
+[ Info: iteration: 720, wall time: 22.474 seconds 
+[ Info: iteration: 720, wall time: 22.474 seconds 
+[ Info: iteration: 720, wall time: 22.475 seconds 
+[ Info: iteration: 720, wall time: 22.464 seconds 
+[ Info: iteration: 720, wall time: 22.465 seconds 
+[ Info: iteration: 720, wall time: 22.465 seconds 
+[ Info: iteration: 730, wall time: 22.466 seconds 
+[ Info: iteration: 730, wall time: 22.368 seconds 
+[ Info: iteration: 730, wall time: 22.466 seconds 
+[ Info: iteration: 730, wall time: 22.467 seconds 
+[ Info: iteration: 730, wall time: 22.467 seconds 
+[ Info: iteration: 730, wall time: 22.456 seconds 
+[ Info: iteration: 730, wall time: 22.456 seconds 
+[ Info: iteration: 730, wall time: 22.456 seconds 
+[ Info: iteration: 740, wall time: 22.435 seconds 
+[ Info: iteration: 740, wall time: 22.435 seconds 
+[ Info: iteration: 740, wall time: 22.549 seconds 
+[ Info: iteration: 740, wall time: 22.434 seconds 
+[ Info: iteration: 740, wall time: 22.434 seconds 
+[ Info: iteration: 740, wall time: 22.439 seconds 
+[ Info: iteration: 740, wall time: 22.456 seconds 
+[ Info: iteration: 740, wall time: 22.458 seconds 
+[ Info: iteration: 750, wall time: 22.420 seconds 
+[ Info: iteration: 750, wall time: 22.403 seconds 
+[ Info: iteration: 750, wall time: 22.420 seconds 
+[ Info: iteration: 750, wall time: 22.419 seconds 
+[ Info: iteration: 750, wall time: 22.419 seconds 
+[ Info: iteration: 750, wall time: 22.412 seconds 
+[ Info: iteration: 750, wall time: 22.394 seconds 
+[ Info: iteration: 750, wall time: 22.392 seconds 
+[ Info: iteration: 760, wall time: 22.363 seconds 
+[ Info: iteration: 760, wall time: 22.366 seconds 
+[ Info: iteration: 760, wall time: 22.362 seconds 
+[ Info: iteration: 760, wall time: 22.363 seconds 
+[ Info: iteration: 760, wall time: 22.363 seconds 
+[ Info: iteration: 760, wall time: 22.371 seconds 
+[ Info: iteration: 760, wall time: 22.371 seconds 
+[ Info: iteration: 760, wall time: 22.371 seconds 
+[ Info: iteration: 770, wall time: 22.485 seconds 
+[ Info: iteration: 770, wall time: 22.369 seconds 
+[ Info: iteration: 770, wall time: 22.510 seconds 
+[ Info: iteration: 770, wall time: 22.503 seconds 
+[ Info: iteration: 770, wall time: 22.502 seconds 
+[ Info: iteration: 770, wall time: 22.506 seconds 
+[ Info: iteration: 770, wall time: 22.505 seconds 
+[ Info: iteration: 770, wall time: 22.505 seconds 
+[ Info: iteration: 780, wall time: 22.475 seconds 
+[ Info: iteration: 780, wall time: 22.449 seconds 
+[ Info: iteration: 780, wall time: 22.459 seconds 
+[ Info: iteration: 780, wall time: 22.593 seconds 
+[ Info: iteration: 780, wall time: 22.460 seconds 
+[ Info: iteration: 780, wall time: 22.453 seconds 
+[ Info: iteration: 780, wall time: 22.454 seconds 
+[ Info: iteration: 780, wall time: 22.454 seconds 
+[ Info: iteration: 790, wall time: 22.470 seconds 
+[ Info: iteration: 790, wall time: 22.569 seconds 
+[ Info: iteration: 790, wall time: 22.569 seconds 
+[ Info: iteration: 790, wall time: 22.569 seconds 
+[ Info: iteration: 790, wall time: 22.569 seconds 
+[ Info: iteration: 790, wall time: 22.567 seconds 
+[ Info: iteration: 790, wall time: 22.567 seconds 
+[ Info: iteration: 790, wall time: 22.567 seconds 
+[ Info: iteration: 800, wall time: 22.708 seconds 
+[ Info: iteration: 800, wall time: 22.716 seconds 
+[ Info: iteration: 800, wall time: 22.617 seconds 
+[ Info: iteration: 800, wall time: 22.622 seconds 
+[ Info: iteration: 800, wall time: 22.623 seconds 
+[ Info: iteration: 800, wall time: 22.638 seconds 
+[ Info: iteration: 800, wall time: 22.631 seconds 
+[ Info: iteration: 800, wall time: 22.635 seconds 
+[ Info: iteration: 810, wall time: 22.112 seconds 
+[ Info: iteration: 810, wall time: 22.200 seconds 
+[ Info: iteration: 810, wall time: 22.180 seconds 
+[ Info: iteration: 810, wall time: 22.195 seconds 
+[ Info: iteration: 810, wall time: 22.196 seconds 
+[ Info: iteration: 810, wall time: 22.209 seconds 
+[ Info: iteration: 810, wall time: 22.195 seconds 
+[ Info: iteration: 810, wall time: 22.190 seconds 
+[ Info: iteration: 820, wall time: 22.404 seconds 
+[ Info: iteration: 820, wall time: 22.277 seconds 
+[ Info: iteration: 820, wall time: 22.407 seconds 
+[ Info: iteration: 820, wall time: 22.406 seconds 
+[ Info: iteration: 820, wall time: 22.406 seconds 
+[ Info: iteration: 820, wall time: 22.406 seconds 
+[ Info: iteration: 820, wall time: 22.401 seconds 
+[ Info: iteration: 820, wall time: 22.400 seconds 
+[ Info: iteration: 830, wall time: 22.371 seconds 
+[ Info: iteration: 830, wall time: 22.373 seconds 
+[ Info: iteration: 830, wall time: 22.370 seconds 
+[ Info: iteration: 830, wall time: 22.371 seconds 
+[ Info: iteration: 830, wall time: 22.371 seconds 
+[ Info: iteration: 830, wall time: 22.373 seconds 
+[ Info: iteration: 830, wall time: 22.373 seconds 
+[ Info: iteration: 830, wall time: 22.497 seconds 
+[ Info: iteration: 840, wall time: 22.395 seconds 
+[ Info: iteration: 840, wall time: 22.393 seconds 
+[ Info: iteration: 840, wall time: 22.396 seconds 
+[ Info: iteration: 840, wall time: 22.396 seconds 
+[ Info: iteration: 840, wall time: 22.396 seconds 
+[ Info: iteration: 840, wall time: 22.392 seconds 
+[ Info: iteration: 840, wall time: 22.392 seconds 
+[ Info: iteration: 840, wall time: 22.392 seconds 
+[ Info: iteration: 850, wall time: 22.415 seconds 
+[ Info: iteration: 850, wall time: 22.418 seconds 
+[ Info: iteration: 850, wall time: 22.413 seconds 
+[ Info: iteration: 850, wall time: 22.414 seconds 
+[ Info: iteration: 850, wall time: 22.414 seconds 
+[ Info: iteration: 850, wall time: 22.416 seconds 
+[ Info: iteration: 850, wall time: 22.415 seconds 
+[ Info: iteration: 850, wall time: 22.415 seconds 
+[ Info: iteration: 860, wall time: 22.472 seconds 
+[ Info: iteration: 860, wall time: 22.477 seconds 
+[ Info: iteration: 860, wall time: 22.474 seconds 
+[ Info: iteration: 860, wall time: 22.474 seconds 
+[ Info: iteration: 860, wall time: 22.474 seconds 
+[ Info: iteration: 860, wall time: 22.474 seconds 
+[ Info: iteration: 860, wall time: 22.474 seconds 
+[ Info: iteration: 860, wall time: 22.474 seconds 
+[ Info: iteration: 870, wall time: 22.454 seconds 
+[ Info: iteration: 870, wall time: 22.449 seconds 
+[ Info: iteration: 870, wall time: 22.453 seconds 
+[ Info: iteration: 870, wall time: 22.453 seconds 
+[ Info: iteration: 870, wall time: 22.453 seconds 
+[ Info: iteration: 870, wall time: 22.452 seconds 
+[ Info: iteration: 870, wall time: 22.452 seconds 
+[ Info: iteration: 870, wall time: 22.452 seconds 
+[ Info: iteration: 880, wall time: 22.557 seconds 
+[ Info: iteration: 880, wall time: 22.556 seconds 
+[ Info: iteration: 880, wall time: 22.555 seconds 
+[ Info: iteration: 880, wall time: 22.555 seconds 
+[ Info: iteration: 880, wall time: 22.555 seconds 
+[ Info: iteration: 880, wall time: 22.560 seconds 
+[ Info: iteration: 880, wall time: 22.561 seconds 
+[ Info: iteration: 880, wall time: 22.561 seconds 
+[ Info: iteration: 890, wall time: 22.546 seconds 
+[ Info: iteration: 890, wall time: 22.556 seconds 
+[ Info: iteration: 890, wall time: 22.546 seconds 
+[ Info: iteration: 890, wall time: 22.547 seconds 
+[ Info: iteration: 890, wall time: 22.547 seconds 
+[ Info: iteration: 890, wall time: 22.547 seconds 
+[ Info: iteration: 890, wall time: 22.547 seconds 
+[ Info: iteration: 890, wall time: 22.547 seconds 
+[ Info: iteration: 900, wall time: 22.813 seconds 
+[ Info: iteration: 900, wall time: 22.709 seconds 
+[ Info: iteration: 900, wall time: 22.728 seconds 
+[ Info: iteration: 900, wall time: 22.735 seconds 
+[ Info: iteration: 900, wall time: 22.730 seconds 
+[ Info: iteration: 900, wall time: 22.731 seconds 
+[ Info: iteration: 900, wall time: 22.725 seconds 
+[ Info: iteration: 900, wall time: 22.740 seconds 
+[ Info: iteration: 910, wall time: 22.157 seconds 
+[ Info: iteration: 910, wall time: 22.248 seconds 
+[ Info: iteration: 910, wall time: 22.236 seconds 
+[ Info: iteration: 910, wall time: 22.242 seconds 
+[ Info: iteration: 910, wall time: 22.243 seconds 
+[ Info: iteration: 910, wall time: 22.233 seconds 
+[ Info: iteration: 910, wall time: 22.238 seconds 
+[ Info: iteration: 910, wall time: 22.223 seconds 
+[ Info: iteration: 920, wall time: 22.485 seconds 
+[ Info: iteration: 920, wall time: 22.487 seconds 
+[ Info: iteration: 920, wall time: 22.482 seconds 
+[ Info: iteration: 920, wall time: 22.482 seconds 
+[ Info: iteration: 920, wall time: 22.482 seconds 
+[ Info: iteration: 920, wall time: 22.485 seconds 
+[ Info: iteration: 920, wall time: 22.484 seconds 
+[ Info: iteration: 920, wall time: 22.484 seconds 
+[ Info: iteration: 930, wall time: 22.459 seconds 
+[ Info: iteration: 930, wall time: 22.461 seconds 
+[ Info: iteration: 930, wall time: 22.460 seconds 
+[ Info: iteration: 930, wall time: 22.459 seconds 
+[ Info: iteration: 930, wall time: 22.459 seconds 
+[ Info: iteration: 930, wall time: 22.462 seconds 
+[ Info: iteration: 930, wall time: 22.463 seconds 
+[ Info: iteration: 930, wall time: 22.463 seconds 
+[ Info: iteration: 940, wall time: 22.441 seconds 
+[ Info: iteration: 940, wall time: 22.439 seconds 
+[ Info: iteration: 940, wall time: 22.445 seconds 
+[ Info: iteration: 940, wall time: 22.445 seconds 
+[ Info: iteration: 940, wall time: 22.445 seconds 
+[ Info: iteration: 940, wall time: 22.439 seconds 
+[ Info: iteration: 940, wall time: 22.438 seconds 
+[ Info: iteration: 940, wall time: 22.438 seconds 
+[ Info: iteration: 950, wall time: 22.526 seconds 
+[ Info: iteration: 950, wall time: 22.525 seconds 
+[ Info: iteration: 950, wall time: 22.524 seconds 
+[ Info: iteration: 950, wall time: 22.524 seconds 
+[ Info: iteration: 950, wall time: 22.524 seconds 
+[ Info: iteration: 950, wall time: 22.531 seconds 
+[ Info: iteration: 950, wall time: 22.531 seconds 
+[ Info: iteration: 950, wall time: 22.531 seconds 
+[ Info: iteration: 960, wall time: 22.434 seconds 
+[ Info: iteration: 960, wall time: 22.535 seconds 
+[ Info: iteration: 960, wall time: 22.536 seconds 
+[ Info: iteration: 960, wall time: 22.537 seconds 
+[ Info: iteration: 960, wall time: 22.537 seconds 
+[ Info: iteration: 960, wall time: 22.527 seconds 
+[ Info: iteration: 960, wall time: 22.528 seconds 
+[ Info: iteration: 960, wall time: 22.528 seconds 
+[ Info: iteration: 970, wall time: 22.437 seconds 
+[ Info: iteration: 970, wall time: 22.440 seconds 
+[ Info: iteration: 970, wall time: 22.437 seconds 
+[ Info: iteration: 970, wall time: 22.437 seconds 
+[ Info: iteration: 970, wall time: 22.437 seconds 
+[ Info: iteration: 970, wall time: 22.443 seconds 
+[ Info: iteration: 970, wall time: 22.442 seconds 
+[ Info: iteration: 970, wall time: 22.442 seconds 
+[ Info: iteration: 980, wall time: 22.492 seconds 
+[ Info: iteration: 980, wall time: 22.387 seconds 
+[ Info: iteration: 980, wall time: 22.616 seconds 
+[ Info: iteration: 980, wall time: 22.509 seconds 
+[ Info: iteration: 980, wall time: 22.500 seconds 
+[ Info: iteration: 980, wall time: 22.507 seconds 
+[ Info: iteration: 980, wall time: 22.501 seconds 
+[ Info: iteration: 980, wall time: 22.501 seconds 
+[ Info: iteration: 990, wall time: 22.499 seconds 
+[ Info: iteration: 990, wall time: 22.376 seconds 
+[ Info: iteration: 990, wall time: 22.481 seconds 
+[ Info: iteration: 990, wall time: 22.604 seconds 
+[ Info: iteration: 990, wall time: 22.483 seconds 
+[ Info: iteration: 990, wall time: 22.491 seconds 
+[ Info: iteration: 990, wall time: 22.491 seconds 
+[ Info: iteration: 990, wall time: 22.491 seconds 
+[ Info: Simulation is stopping after running for 38.508 minutes.
+[ Info: Model iteration 1000 equals or exceeds stop iteration 1000.
+[ Info: Simulation is stopping after running for 38.263 minutes.
+[ Info: Model iteration 1000 equals or exceeds stop iteration 1000.
+[ Info: Simulation is stopping after running for 38.264 minutes.
+[ Info: Model iteration 1000 equals or exceeds stop iteration 1000.
+[ Info: Simulation is stopping after running for 38.509 minutes.
+[ Info: Simulation is stopping after running for 38.341 minutes.
+[ Info: Model iteration 1000 equals or exceeds stop iteration 1000.
+[ Info: Model iteration 1000 equals or exceeds stop iteration 1000.
+[ Info: Simulation is stopping after running for 38.341 minutes.
+[ Info: Model iteration 1000 equals or exceeds stop iteration 1000.
+[ Info: Simulation is stopping after running for 38.263 minutes.
+[ Info: Simulation is stopping after running for 38.264 minutes.
+[ Info: Model iteration 1000 equals or exceeds stop iteration 1000.
+[ Info: Model iteration 1000 equals or exceeds stop iteration 1000.
+[ Info: iteration: 1000, wall time: 22.737 seconds 
+[ Info: iteration: 1000, wall time: 22.736 seconds 
+[ Info: iteration: 1000, wall time: 22.644 seconds 
+[ Info: iteration: 1000, wall time: 22.644 seconds 
+[ Info: iteration: 1000, wall time: 22.641 seconds 
+[ Info: iteration: 1000, wall time: 22.656 seconds 
+[ Info: iteration: 1000, wall time: 22.653 seconds 
+[ Info: iteration: 1000, wall time: 22.684 seconds 

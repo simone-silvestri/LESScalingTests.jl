@@ -1,0 +1,117 @@
+
+The following have been reloaded with a version change:
+  1) cuda/11.4 => cuda/11.4-5ncz6p4
+
+/var/spool/slurmd/job350365/slurm_script: line 18: test: ==: unary operator expected
+┌ Warning: CUDA runtime library libcudart.so.11.0 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcublasLt.so.11 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcudart.so.11.0 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcublasLt.so.11 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcudart.so.11.0 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcublasLt.so.11 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcudart.so.11.0 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcublasLt.so.11 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcudart.so.11.0 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcublasLt.so.11 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcudart.so.11.0 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcudart.so.11.0 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcublasLt.so.11 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcublasLt.so.11 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcudart.so.11.0 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Warning: CUDA runtime library libcublasLt.so.11 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA /nobackup/users/ssilvest/perlmutter-test/depot/packages/CUDA/35NC6/src/initialization.jl:171
+[ Info: Oceananigans will use 16 threads
+[ Info: Oceananigans will use 16 threads
+[ Info: Oceananigans will use 16 threads
+[ Info: Oceananigans will use 16 threads
+[ Info: Oceananigans will use 16 threads
+[ Info: Oceananigans will use 16 threads
+[ Info: Oceananigans will use 16 threads
+[ Info: Oceananigans will use 16 threads
+[ Info: Initializing simulation...
+[ Info: Initializing simulation...
+[ Info: Initializing simulation...
+[ Info: Initializing simulation...
+[ Info: iteration: 0, wall time: 16.861 seconds 
+[ Info:     ... simulation initialization complete (12.207 seconds)
+[ Info: Executing initial time step...
+[ Info: iteration: 0, wall time: 17.069 seconds 
+[ Info:     ... simulation initialization complete (12.443 seconds)
+[ Info: Executing initial time step...
+[ Info: Initializing simulation...
+[ Info: Initializing simulation...
+[ Info: Initializing simulation...
+[ Info: Initializing simulation...
+[ Info: iteration: 0, wall time: 14.601 seconds 
+[ Info:     ... simulation initialization complete (9.965 seconds)
+[ Info: Executing initial time step...
+[ Info: iteration: 0, wall time: 14.837 seconds 
+[ Info:     ... simulation initialization complete (10.243 seconds)
+[ Info: Executing initial time step...
+[ Info: iteration: 0, wall time: 8.431 seconds 
+[ Info:     ... simulation initialization complete (2.949 seconds)
+[ Info: Executing initial time step...
+[ Info: iteration: 0, wall time: 8.483 seconds 
+[ Info:     ... simulation initialization complete (2.963 seconds)
+[ Info: Executing initial time step...
+[ Info: iteration: 0, wall time: 8.417 seconds 
+[ Info:     ... simulation initialization complete (2.871 seconds)
+[ Info: Executing initial time step...
+[ Info: iteration: 0, wall time: 8.510 seconds 
+[ Info:     ... simulation initialization complete (2.965 seconds)
+[ Info: Executing initial time step...
+[ Info:     ... initial time step complete (56.955 seconds).
+[ Info: Simulation is stopping after running for 0 seconds.
+[ Info: Simulation time Inf days equals or exceeds stop time Inf days.
+[ Info:     ... initial time step complete (56.813 seconds).
+[ Info: Simulation is stopping after running for 0 seconds.
+[ Info: Simulation time Inf days equals or exceeds stop time Inf days.
+[ Info:     ... initial time step complete (49.130 seconds).
+[ Info:     ... initial time step complete (49.194 seconds).
+[ Info:     ... initial time step complete (49.653 seconds).
+[ Info: Simulation is stopping after running for 0 seconds.
+[ Info: Simulation time Inf days equals or exceeds stop time Inf days.
+[ Info: Simulation is stopping after running for 0 seconds.
+[ Info: Simulation time Inf days equals or exceeds stop time Inf days.
+[ Info:     ... initial time step complete (49.565 seconds).
+[ Info: Simulation is stopping after running for 0 seconds.
+[ Info: Simulation time Inf days equals or exceeds stop time Inf days.
+[ Info:     ... initial time step complete (49.229 seconds).
+[ Info:     ... initial time step complete (49.065 seconds).
+[ Info: Simulation is stopping after running for 0 seconds.
+[ Info: Simulation time Inf days equals or exceeds stop time Inf days.
+[ Info: Simulation is stopping after running for 0 seconds.
+[ Info: Simulation time Inf days equals or exceeds stop time Inf days.
+[ Info: Simulation is stopping after running for 0 seconds.
+[ Info: Simulation time Inf days equals or exceeds stop time Inf days.
