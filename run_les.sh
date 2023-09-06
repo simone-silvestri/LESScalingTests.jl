@@ -7,9 +7,9 @@
 # ====================================================== #
 
 # Grid size
-export NX=1024 
-export NY=1024 
-export NZ=512 
+export NX=2048 
+export NY=2048
+export NZ=256 
 
 export RX=8
 export RY=1
