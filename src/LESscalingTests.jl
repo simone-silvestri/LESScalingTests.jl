@@ -20,13 +20,6 @@ using Oceananigans.Units
     return p.N² * z + p.Δb * b
 end
 
-@inline function b_restoring(i, j, k, grid, clock, fields, p)
-    x, y, z = node(i, j, k, grid, Center(), Center(), Center())
-    b★ = bᵢ(x, y, z, p)
-    b  = @inbounds fields.b[i, j, k]
-    return 1 / p.λ * (b★ - b)
-end
-
 function run_hit_simulation!(grid_size, ranks; 
                              topology  = (Periodic, Bounded, Bounded),
                              output_name = "test_fields",
@@ -45,11 +38,18 @@ function run_hit_simulation!(grid_size, ranks;
     Δb = 0.001
     Ly = 2.048kilometers 
 
-    params = (; N², Δb, Ly, λ = 10days)
     b_bcs = FieldBoundaryConditions(top = FluxBoundaryCondition(5e-9),
                                     bottom = GradientBoundaryCondition(N²))
 
-    b_frc = Forcing(b_restoring; discrete_form=true, parameters=params)
+    @inline function b_restoring(i, j, k, grid, clock, fields, p)
+        @inbounds begin
+            x, y, z = node(i, j, k, grid, Center(), Center(), Center())
+            return 1 / p.λ * (bᵢ(x, y, z, p) - fields.b[i, j, k])
+        end
+    end
+                                    
+    params = (; N², Δb, Ly, λ = 10days)
+    b_frc = Forcing(b_restoring, discrete_form=true, parameters=params)
 
     model = NonhydrostaticModel(; grid, 
                                   advection = WENO(order = 7), 
