@@ -1,8 +1,6 @@
 #!/bin/bash
-#SBATCH --ntasks-per-node=4
-#SBATCH --gres=gpu:4
 #SBATCH --cpus-per-task=16
-#SBATCH --mem=100GB
+#SBATCH --mem=500GB
 #SBATCH --time 24:00:00
 
 ## modules setup
@@ -16,7 +14,7 @@ EoF_s
 chmod +x launch.sh
 
 if test $PROFILE == 1; then
-   NSYS="nsys profile --trace=nvtx,cuda,mpi --output=${COMMON}/report_N${SLURM_JOB_NUM_NODES}"
+   NSYS="nsys profile --trace=nvtx,cuda,mpi --output=report_RX${RX}_RY${RY}_NX${NX}_NY${NY}"
 fi
 
 $NSYS srun --mpi=pmi2 ./launch.sh $JULIA --check-bounds=no --project scaling_experiments.jl 

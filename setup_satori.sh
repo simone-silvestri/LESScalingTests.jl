@@ -7,7 +7,7 @@ module load openmpi/3.1.6-cuda-pmi-ucx-slurm-jhklron
 # MPI specific exports
 export OMPI_MCA_pml=^ucx
 export OMPI_MCA_osc=^ucx
-export OMPI_MCA_btl_openib_allow_ib=true
+# export OMPI_MCA_btl_openib_allow_ib=true
 
 # Julia specific enviromental variables
 export COMMON="/nobackup/users/ssilvest/perlmutter-test"
