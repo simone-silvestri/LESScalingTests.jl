@@ -1,0 +1,30 @@
+┌ Error: JULIA_CUDA_USE_BINARYBUILDER is deprecated, and CUDA.jl always uses artifacts now.
+│ To use a local installation, use overrides or preferences to customize the artifact.
+│ Please check the CUDA.jl or Pkg.jl documentation for more details.
+└ @ CUDA ~/.julia/packages/CUDA/35NC6/src/initialization.jl:153
+┌ Warning: CUDA runtime library libcudart.so.11.0 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA ~/.julia/packages/CUDA/35NC6/src/initialization.jl:171
+[ Info: Oceananigans will use 32 threads
+┌ Error: JULIA_CUDA_USE_BINARYBUILDER is deprecated, and CUDA.jl always uses artifacts now.
+│ To use a local installation, use overrides or preferences to customize the artifact.
+│ Please check the CUDA.jl or Pkg.jl documentation for more details.
+└ @ CUDA ~/.julia/packages/CUDA/35NC6/src/initialization.jl:153
+[ Info: Enforcing boundary conditions...
+[ Info: Initializing simulation...
+[ Info: iteration: 0, Δt: 1.100000e+00, wall time: 12.378 seconds (|u|, |v|, |w|): 7.46e-04 7.43e-04 4.93e-04, b: 5.03e-03 
+[ Info:     ... simulation initialization complete (20.707 seconds)
+[ Info: Executing initial time step...
+[ Info:     ... initial time step complete (5.866 seconds).
+[ Info: iteration: 10, Δt: 1.210000e+00, wall time: 8.390 seconds (|u|, |v|, |w|): 7.46e-04 8.71e-03 7.65e-03, b: 5.03e-03 
+[ Info: iteration: 20, Δt: 1.331000e+00, wall time: 2.602 seconds (|u|, |v|, |w|): 7.43e-04 1.75e-02 1.57e-02, b: 5.03e-03 
+[ Info: iteration: 30, Δt: 1.464100e+00, wall time: 2.588 seconds (|u|, |v|, |w|): 7.39e-04 2.73e-02 2.45e-02, b: 5.03e-03 
+[ Info: iteration: 40, Δt: 1.610510e+00, wall time: 2.591 seconds (|u|, |v|, |w|): 7.49e-04 3.80e-02 3.42e-02, b: 5.03e-03 
+[ Info: iteration: 50, Δt: 1.771561e+00, wall time: 2.591 seconds (|u|, |v|, |w|): 7.78e-04 4.98e-02 4.49e-02, b: 5.03e-03 
+[ Info: iteration: 60, Δt: 1.948717e+00, wall time: 2.602 seconds (|u|, |v|, |w|): 7.27e-04 6.27e-02 5.65e-02, b: 5.03e-03 
+[ Info: iteration: 70, Δt: 2.143589e+00, wall time: 2.585 seconds (|u|, |v|, |w|): 7.29e-04 7.70e-02 6.93e-02, b: 5.03e-03 
+[ Info: iteration: 80, Δt: 2.357948e+00, wall time: 2.600 seconds (|u|, |v|, |w|): 7.46e-04 9.26e-02 8.34e-02, b: 5.03e-03 
+[ Info: iteration: 90, Δt: 2.593742e+00, wall time: 2.592 seconds (|u|, |v|, |w|): 7.62e-04 1.10e-01 9.87e-02, b: 5.03e-03 
+[ Info: Simulation is stopping after running for 52.071 seconds.
+[ Info: Model iteration 100 equals or exceeds stop iteration 100.
+[ Info: iteration: 100, Δt: 2.853117e+00, wall time: 2.600 seconds (|u|, |v|, |w|): 7.59e-04 1.29e-01 1.15e-01, b: 5.03e-03 
