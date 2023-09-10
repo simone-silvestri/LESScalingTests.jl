@@ -3,6 +3,7 @@ module LESscalingTests
 export run_hit_simulation! 
 
 using MPI
+using JLD2
 using Statistics: mean
 using Printf
 using Oceananigans
@@ -92,5 +93,6 @@ function run_hit_simulation!(grid_size, ranks;
     run!(simulation)
 end
 
+include("parse_results.jl")
 
 end
