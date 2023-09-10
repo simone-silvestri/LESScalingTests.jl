@@ -1,1 +1,3 @@
-/Manifest.toml
+*.out
+*.jld2
+*.qdrep

@@ -6,14 +6,28 @@
 # ================ USER SPECIFIED INPUTS =============== #
 # ====================================================== #
 
+export PROFILE=1
+
 # Grid size
-export NX=2048 
-export NY=2048
+export NX=$((512 * RX))
+export NY=$((512 * RY))
 export NZ=256 
 
-export RX=8
-export RY=1
+TOTCORES=$((RX * RY))
 
-export NNODES=2
+if [ $TOTCORES -le 4 ]; then
+	NODES=1	
+else
+	NODES=2
+fi
 
-sbatch -N ${NNODES} satori_job.sh
+export NNODES=$NODES
+
+export NTASKS=$((RX * RY / NNODES))
+
+echo ""
+echo "(RX, RY) = $RX, $RY"
+echo "(NX, NY) = $NX, $NY"
+echo "(NNODES, NTASKS) = $NNODES, $NTASKS"
+
+sbatch -N ${NNODES} --gres=gpu:${NTASKS} --ntasks-per-node=${NTASKS} satori_job.sh
