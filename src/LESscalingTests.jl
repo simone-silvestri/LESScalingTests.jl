@@ -8,7 +8,7 @@ using Statistics: mean
 using Printf
 using Oceananigans
 using Oceananigans.Utils: prettytime
-using Oceananigans.Distributed
+using Oceananigans.DistributedComputations
 using Oceananigans.Grids: node
 using Oceananigans.Advection: cell_advection_timescale
 using Oceananigans.Units
@@ -23,11 +23,11 @@ function run_performance_simulation(grid_size, ranks;
                                     topology  = (Periodic, Periodic, Bounded),
                                     output_name = "test_fields",
                                     timestepper = :RungeKutta3,
-                                    CFL = 0.5)
+                                    CFL = 0.75)
     
     N = grid_size
     
-    arch  = DistributedArch(GPU(); partition = ranks)
+    arch  = DistributedArch(GPU(); partition = Partition(ranks...))
     grid  = RectilinearGrid(arch; size = N, x = (0, 4096),
 			    		    y = (-2048, 2048),
 					        z = (-512, 0), topology, halo = (4, 4, 4))
