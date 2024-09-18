@@ -15,5 +15,5 @@ Nz = parse(Int, get(ENV, "NZ", "256"))
 
 grid_size = (Nx, Ny, Nz)
 
-run_hit_simulation!(grid_size, ranks)
+run_performance_simulation(grid_size, ranks)
 
