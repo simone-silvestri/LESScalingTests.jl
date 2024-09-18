@@ -1,6 +1,6 @@
 module LESscalingTests
 
-export run_hit_simulation! 
+export run_performance_simulation
 
 using MPI
 using JLD2
@@ -19,18 +19,18 @@ using Oceananigans.Units
     return p.N² * z + p.Δb * b
 end
 
-function run_hit_simulation!(grid_size, ranks; 
-                             topology  = (Periodic, Periodic, Bounded),
-                             output_name = "test_fields",
-                             timestepper = :QuasiAdamsBashforth2,
-                             CFL = 0.5)
+function run_performance_simulation(grid_size, ranks; 
+                                    topology  = (Periodic, Periodic, Bounded),
+                                    output_name = "test_fields",
+                                    timestepper = :RungeKutta3,
+                                    CFL = 0.5)
     
-    N = grid_size .÷ ranks
+    N = grid_size
     
-    arch  = DistributedArch(GPU(); ranks, topology)
+    arch  = DistributedArch(GPU(); partition = ranks)
     grid  = RectilinearGrid(arch; size = N, x = (0, 4096),
 			    		    y = (-2048, 2048),
-					    z = (-512, 0), topology, halo = (4, 4, 4))
+					        z = (-512, 0), topology, halo = (4, 4, 4))
 
     # Buoyancy and boundary conditions
     @info "Enforcing boundary conditions..."
@@ -42,19 +42,12 @@ function run_hit_simulation!(grid_size, ranks;
     b_bcs = FieldBoundaryConditions(top = FluxBoundaryCondition(5e-9), 
                                     bottom = GradientBoundaryCondition(N²))
 
-    @inline function b_restoring(i, j, k, grid, clock, fields, p)
-        @inbounds begin
-            x, y, z = node(i, j, k, grid, Center(), Center(), Center())
-            return 1 / p.λ * (bᵢ(x, y, z, p) - fields.b[i, j, k])
-        end
-    end
-                                    
     params = (; N², Δb, Ly, λ = 10days)
 
     model = NonhydrostaticModel(; grid, 
                                   advection = WENO(order = 7), 
                                   coriolis = FPlane(f = -1e-5),
-				  tracers = :b, 
+				                  tracers = :b, 
                                   buoyancy = BuoyancyTracer(),
                                   boundary_conditions = (; b = b_bcs),
                                   timestepper)
@@ -83,13 +76,6 @@ function run_hit_simulation!(grid_size, ranks;
    
     rank = MPI.Comm_rank(MPI.COMM_WORLD)
 
-#     if !isnothing(output_name)
-#         simulation.output_writers[:fields] = JLD2OutputWriter(model, merge(model.velocities, model.tracers),
-#                                                             filename = output_name * "_$(rank)",
-#                                                             schedule = TimeInterval(1hour),
-#                                                             overwrite_existing = true)
-#     end
-    
     run!(simulation)
 end
 
