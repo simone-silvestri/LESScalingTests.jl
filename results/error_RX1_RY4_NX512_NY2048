@@ -1,0 +1,104 @@
+┌ Error: JULIA_CUDA_USE_BINARYBUILDER is deprecated, and CUDA.jl always uses artifacts now.
+│ To use a local installation, use overrides or preferences to customize the artifact.
+│ Please check the CUDA.jl or Pkg.jl documentation for more details.
+└ @ CUDA ~/.julia/packages/CUDA/35NC6/src/initialization.jl:153
+┌ Warning: CUDA runtime library libcudart.so.11.0 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA ~/.julia/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Error: JULIA_CUDA_USE_BINARYBUILDER is deprecated, and CUDA.jl always uses artifacts now.
+│ To use a local installation, use overrides or preferences to customize the artifact.
+│ Please check the CUDA.jl or Pkg.jl documentation for more details.
+└ @ CUDA ~/.julia/packages/CUDA/35NC6/src/initialization.jl:153
+┌ Warning: CUDA runtime library libcudart.so.11.0 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA ~/.julia/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Error: JULIA_CUDA_USE_BINARYBUILDER is deprecated, and CUDA.jl always uses artifacts now.
+│ To use a local installation, use overrides or preferences to customize the artifact.
+│ Please check the CUDA.jl or Pkg.jl documentation for more details.
+└ @ CUDA ~/.julia/packages/CUDA/35NC6/src/initialization.jl:153
+┌ Warning: CUDA runtime library libcudart.so.11.0 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA ~/.julia/packages/CUDA/35NC6/src/initialization.jl:171
+┌ Error: JULIA_CUDA_USE_BINARYBUILDER is deprecated, and CUDA.jl always uses artifacts now.
+│ To use a local installation, use overrides or preferences to customize the artifact.
+│ Please check the CUDA.jl or Pkg.jl documentation for more details.
+└ @ CUDA ~/.julia/packages/CUDA/35NC6/src/initialization.jl:153
+┌ Warning: CUDA runtime library libcudart.so.11.0 was loaded from a system path. This may cause errors.
+│ Ensure that you have not set the LD_LIBRARY_PATH environment variable, or that it does not contain paths to CUDA libraries.
+└ @ CUDA ~/.julia/packages/CUDA/35NC6/src/initialization.jl:171
+[ Info: Oceananigans will use 32 threads
+[ Info: Oceananigans will use 32 threads
+[ Info: Oceananigans will use 32 threads
+[ Info: Oceananigans will use 32 threads
+[ Info: Enforcing boundary conditions...
+[ Info: Enforcing boundary conditions...
+[ Info: Enforcing boundary conditions...
+[ Info: Enforcing boundary conditions...
+[ Info: Initializing simulation...
+[ Info: Initializing simulation...
+[ Info: Initializing simulation...
+[ Info: Initializing simulation...
+[ Info: iteration: 0, Δt: 1.100000e+00, wall time: 13.483 seconds (|u|, |v|, |w|): 7.00e-04 6.83e-04 5.53e-04, b: 5.04e-03 
+[ Info:     ... simulation initialization complete (22.475 seconds)
+[ Info: Executing initial time step...
+[ Info: iteration: 0, Δt: 1.100000e+00, wall time: 13.464 seconds (|u|, |v|, |w|): 7.01e-04 6.86e-04 5.67e-04, b: 2.04e-03 
+[ Info:     ... simulation initialization complete (22.507 seconds)
+[ Info: Executing initial time step...
+[ Info: iteration: 0, Δt: 1.100000e+00, wall time: 13.448 seconds (|u|, |v|, |w|): 6.93e-04 6.63e-04 5.67e-04, b: 5.04e-03 
+[ Info:     ... simulation initialization complete (22.490 seconds)
+[ Info: Executing initial time step...
+[ Info: iteration: 0, Δt: 1.100000e+00, wall time: 13.469 seconds (|u|, |v|, |w|): 6.95e-04 6.74e-04 5.54e-04, b: 2.04e-03 
+[ Info:     ... simulation initialization complete (22.569 seconds)
+[ Info: Executing initial time step...
+[ Info:     ... initial time step complete (6.640 seconds).
+[ Info:     ... initial time step complete (6.690 seconds).
+[ Info:     ... initial time step complete (6.726 seconds).
+[ Info:     ... initial time step complete (6.702 seconds).
+[ Info: iteration: 10, Δt: 1.210000e+00, wall time: 11.301 seconds (|u|, |v|, |w|): 6.95e-04 8.57e-03 7.82e-03, b: 5.04e-03 
+[ Info: iteration: 10, Δt: 1.210000e+00, wall time: 11.259 seconds (|u|, |v|, |w|): 6.86e-04 8.57e-03 7.80e-03, b: 5.04e-03 
+[ Info: iteration: 10, Δt: 1.210000e+00, wall time: 11.265 seconds (|u|, |v|, |w|): 7.02e-04 5.91e-03 1.19e-03, b: 2.04e-03 
+[ Info: iteration: 10, Δt: 1.210000e+00, wall time: 11.214 seconds (|u|, |v|, |w|): 6.93e-04 5.93e-03 1.23e-03, b: 2.04e-03 
+[ Info: iteration: 20, Δt: 1.331000e+00, wall time: 4.827 seconds (|u|, |v|, |w|): 6.93e-04 1.74e-02 1.60e-02, b: 5.04e-03 
+[ Info: iteration: 20, Δt: 1.331000e+00, wall time: 4.827 seconds (|u|, |v|, |w|): 6.91e-04 1.74e-02 1.60e-02, b: 5.04e-03 
+[ Info: iteration: 20, Δt: 1.331000e+00, wall time: 4.810 seconds (|u|, |v|, |w|): 6.87e-04 1.19e-02 1.97e-03, b: 2.04e-03 
+[ Info: iteration: 20, Δt: 1.331000e+00, wall time: 4.825 seconds (|u|, |v|, |w|): 7.03e-04 1.19e-02 1.94e-03, b: 2.04e-03 
+[ Info: iteration: 30, Δt: 1.464100e+00, wall time: 4.982 seconds (|u|, |v|, |w|): 6.83e-04 1.85e-02 2.79e-03, b: 2.04e-03 
+[ Info: iteration: 30, Δt: 1.464100e+00, wall time: 4.982 seconds (|u|, |v|, |w|): 7.28e-04 2.72e-02 2.49e-02, b: 5.04e-03 
+[ Info: iteration: 30, Δt: 1.464100e+00, wall time: 4.980 seconds (|u|, |v|, |w|): 7.05e-04 1.85e-02 2.76e-03, b: 2.04e-03 
+[ Info: iteration: 30, Δt: 1.464100e+00, wall time: 4.983 seconds (|u|, |v|, |w|): 7.34e-04 2.71e-02 2.49e-02, b: 5.04e-03 
+[ Info: iteration: 40, Δt: 1.610510e+00, wall time: 4.849 seconds (|u|, |v|, |w|): 7.60e-04 3.78e-02 3.48e-02, b: 5.04e-03 
+[ Info: iteration: 40, Δt: 1.610510e+00, wall time: 4.883 seconds (|u|, |v|, |w|): 7.08e-04 2.57e-02 3.67e-03, b: 2.04e-03 
+[ Info: iteration: 40, Δt: 1.610510e+00, wall time: 4.884 seconds (|u|, |v|, |w|): 7.36e-04 3.79e-02 3.48e-02, b: 5.04e-03 
+[ Info: iteration: 40, Δt: 1.610510e+00, wall time: 4.885 seconds (|u|, |v|, |w|): 7.05e-04 2.57e-02 3.69e-03, b: 2.04e-03 
+[ Info: iteration: 50, Δt: 1.771561e+00, wall time: 4.921 seconds (|u|, |v|, |w|): 7.25e-04 3.37e-02 4.69e-03, b: 2.04e-03 
+[ Info: iteration: 50, Δt: 1.771561e+00, wall time: 4.922 seconds (|u|, |v|, |w|): 7.47e-04 4.96e-02 4.56e-02, b: 5.04e-03 
+[ Info: iteration: 50, Δt: 1.771561e+00, wall time: 4.921 seconds (|u|, |v|, |w|): 7.19e-04 3.37e-02 4.67e-03, b: 2.04e-03 
+[ Info: iteration: 50, Δt: 1.771561e+00, wall time: 4.921 seconds (|u|, |v|, |w|): 7.54e-04 4.96e-02 4.56e-02, b: 5.04e-03 
+[ Info: iteration: 60, Δt: 1.948717e+00, wall time: 4.888 seconds (|u|, |v|, |w|): 7.28e-04 6.26e-02 5.75e-02, b: 5.04e-03 
+[ Info: iteration: 60, Δt: 1.948717e+00, wall time: 4.888 seconds (|u|, |v|, |w|): 7.22e-04 4.25e-02 5.78e-03, b: 2.05e-03 
+[ Info: iteration: 60, Δt: 1.948717e+00, wall time: 4.887 seconds (|u|, |v|, |w|): 7.38e-04 6.26e-02 5.75e-02, b: 5.04e-03 
+[ Info: iteration: 60, Δt: 1.948717e+00, wall time: 4.888 seconds (|u|, |v|, |w|): 7.26e-04 4.25e-02 5.77e-03, b: 2.05e-03 
+[ Info: iteration: 70, Δt: 2.143589e+00, wall time: 4.975 seconds (|u|, |v|, |w|): 7.28e-04 5.23e-02 6.98e-03, b: 2.05e-03 
+[ Info: iteration: 70, Δt: 2.143589e+00, wall time: 4.976 seconds (|u|, |v|, |w|): 7.25e-04 7.69e-02 7.05e-02, b: 5.04e-03 
+[ Info: iteration: 70, Δt: 2.143589e+00, wall time: 4.975 seconds (|u|, |v|, |w|): 7.35e-04 7.68e-02 7.05e-02, b: 5.04e-03 
+[ Info: iteration: 70, Δt: 2.143589e+00, wall time: 4.975 seconds (|u|, |v|, |w|): 7.31e-04 5.22e-02 6.98e-03, b: 2.05e-03 
+[ Info: iteration: 80, Δt: 2.357948e+00, wall time: 4.887 seconds (|u|, |v|, |w|): 7.20e-04 6.30e-02 8.29e-03, b: 2.05e-03 
+[ Info: iteration: 80, Δt: 2.357948e+00, wall time: 4.887 seconds (|u|, |v|, |w|): 7.42e-04 6.28e-02 8.31e-03, b: 2.05e-03 
+[ Info: iteration: 80, Δt: 2.357948e+00, wall time: 4.887 seconds (|u|, |v|, |w|): 7.35e-04 9.25e-02 8.48e-02, b: 5.04e-03 
+[ Info: iteration: 80, Δt: 2.357948e+00, wall time: 4.887 seconds (|u|, |v|, |w|): 7.42e-04 9.26e-02 8.48e-02, b: 5.04e-03 
+[ Info: iteration: 90, Δt: 2.593742e+00, wall time: 4.785 seconds (|u|, |v|, |w|): 7.54e-04 1.10e-01 1.00e-01, b: 5.04e-03 
+[ Info: iteration: 90, Δt: 2.593742e+00, wall time: 4.790 seconds (|u|, |v|, |w|): 7.42e-04 7.48e-02 9.75e-03, b: 2.05e-03 
+[ Info: iteration: 90, Δt: 2.593742e+00, wall time: 4.789 seconds (|u|, |v|, |w|): 7.51e-04 7.46e-02 9.77e-03, b: 2.05e-03 
+[ Info: iteration: 90, Δt: 2.593742e+00, wall time: 4.789 seconds (|u|, |v|, |w|): 7.36e-04 1.10e-01 1.00e-01, b: 5.04e-03 
+[ Info: Simulation is stopping after running for 1.286 minutes.
+[ Info: Model iteration 100 equals or exceeds stop iteration 100.
+[ Info: Simulation is stopping after running for 1.286 minutes.
+[ Info: Simulation is stopping after running for 1.285 minutes.
+[ Info: Model iteration 100 equals or exceeds stop iteration 100.
+[ Info: Model iteration 100 equals or exceeds stop iteration 100.
+[ Info: Simulation is stopping after running for 1.286 minutes.
+[ Info: Model iteration 100 equals or exceeds stop iteration 100.
+[ Info: iteration: 100, Δt: 2.853117e+00, wall time: 4.843 seconds (|u|, |v|, |w|): 7.89e-04 1.29e-01 1.17e-01, b: 5.04e-03 
+[ Info: iteration: 100, Δt: 2.853117e+00, wall time: 4.843 seconds (|u|, |v|, |w|): 7.37e-04 8.78e-02 1.14e-02, b: 2.06e-03 
+[ Info: iteration: 100, Δt: 2.853117e+00, wall time: 4.843 seconds (|u|, |v|, |w|): 7.50e-04 8.76e-02 1.14e-02, b: 2.06e-03 
+[ Info: iteration: 100, Δt: 2.853117e+00, wall time: 4.843 seconds (|u|, |v|, |w|): 7.57e-04 1.29e-01 1.17e-01, b: 5.04e-03 
