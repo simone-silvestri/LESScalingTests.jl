@@ -13,21 +13,16 @@ using Oceananigans.Grids: node
 using Oceananigans.Advection: cell_advection_timescale
 using Oceananigans.Units
 
-@inline function bᵢ(x, y, z, p) 
-    b = - 1 / (p.Ly)^2 * y^2 + 1
- 
-    return p.N² * z + p.Δb * b
-end
-
 function run_performance_simulation(grid_size, ranks; 
                                     topology  = (Periodic, Periodic, Bounded),
                                     output_name = "test_fields",
                                     timestepper = :RungeKutta3,
+                                    closure = nothing,
                                     CFL = 0.75)
     
     N = grid_size
     
-    arch  = DistributedArch(GPU(); partition = Partition(ranks...))
+    arch  = Distributed(GPU(); partition = Partition(ranks...))
     grid  = RectilinearGrid(arch; size = N, x = (0, 4096),
 			    		    y = (-2048, 2048),
 					        z = (-512, 0), topology, halo = (4, 4, 4))
@@ -35,12 +30,8 @@ function run_performance_simulation(grid_size, ranks;
     # Buoyancy and boundary conditions
     @info "Enforcing boundary conditions..."
     
-    N² = 4e-6
-    Δb = 0.001
-    Ly = 1024
-
     b_bcs = FieldBoundaryConditions(top = FluxBoundaryCondition(5e-9), 
-                                    bottom = GradientBoundaryCondition(N²))
+                                    bottom = GradientBoundaryCondition(4e-6))
 
     params = (; N², Δb, Ly, λ = 10days)
 
@@ -48,14 +39,10 @@ function run_performance_simulation(grid_size, ranks;
                                   advection = WENO(order = 7), 
                                   coriolis = FPlane(f = -1e-5),
 				                  tracers = :b, 
+                                  closure,
                                   buoyancy = BuoyancyTracer(),
                                   boundary_conditions = (; b = b_bcs),
                                   timestepper)
-    
-    @inline bᵣ(x, y, z) = bᵢ(x, y, z, params) + Δb * rand() / 1000
-    @inline uᵣ(x, y, z) = (rand() - 0.5) * 0.001
-    
-    set!(model, u = uᵣ, v = uᵣ, b = bᵣ)
     
     wtime = Ref(time_ns())
     
