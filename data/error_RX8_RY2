@@ -1,0 +1,924 @@
+/var/spool/slurmd/job33890110/slurm_script: line 12: launch.sh: Text file busy
+┌ Error: JULIA_CUDA_USE_BINARYBUILDER is deprecated. Call `CUDA.jl.set_runtime_version!` to use a local toolkit.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:201
+┌ Warning: CUDA runtime library `libcudart.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/cuda/12.2/lib64/libcudart.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcupti.so.12.2` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/profilers/Nsight_Systems/target-linux-x64/libcupti.so.12.2`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcublasLt.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/math_libs/12.2/lib64/libcublasLt.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libnvJitLink.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/cuda/12.2/lib64/libnvJitLink.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcusparse.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/math_libs/12.2/lib64/libcusparse.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Error: JULIA_CUDA_USE_BINARYBUILDER is deprecated. Call `CUDA.jl.set_runtime_version!` to use a local toolkit.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:201
+┌ Warning: CUDA runtime library `libcudart.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/cuda/12.2/lib64/libcudart.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcupti.so.12.2` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/profilers/Nsight_Systems/target-linux-x64/libcupti.so.12.2`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcublasLt.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/math_libs/12.2/lib64/libcublasLt.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libnvJitLink.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/cuda/12.2/lib64/libnvJitLink.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcusparse.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/math_libs/12.2/lib64/libcusparse.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Error: JULIA_CUDA_USE_BINARYBUILDER is deprecated. Call `CUDA.jl.set_runtime_version!` to use a local toolkit.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:201
+┌ Warning: CUDA runtime library `libcudart.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/cuda/12.2/lib64/libcudart.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcupti.so.12.2` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/profilers/Nsight_Systems/target-linux-x64/libcupti.so.12.2`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcublasLt.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/math_libs/12.2/lib64/libcublasLt.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libnvJitLink.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/cuda/12.2/lib64/libnvJitLink.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcusparse.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/math_libs/12.2/lib64/libcusparse.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Error: JULIA_CUDA_USE_BINARYBUILDER is deprecated. Call `CUDA.jl.set_runtime_version!` to use a local toolkit.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:201
+┌ Warning: CUDA runtime library `libcudart.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/cuda/12.2/lib64/libcudart.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcupti.so.12.2` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/profilers/Nsight_Systems/target-linux-x64/libcupti.so.12.2`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcublasLt.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/math_libs/12.2/lib64/libcublasLt.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libnvJitLink.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/cuda/12.2/lib64/libnvJitLink.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcusparse.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/math_libs/12.2/lib64/libcusparse.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Error: JULIA_CUDA_USE_BINARYBUILDER is deprecated. Call `CUDA.jl.set_runtime_version!` to use a local toolkit.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:201
+┌ Warning: CUDA runtime library `libcudart.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/cuda/12.2/lib64/libcudart.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcupti.so.12.2` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/profilers/Nsight_Systems/target-linux-x64/libcupti.so.12.2`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcublasLt.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/math_libs/12.2/lib64/libcublasLt.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libnvJitLink.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/cuda/12.2/lib64/libnvJitLink.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcusparse.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/math_libs/12.2/lib64/libcusparse.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Error: JULIA_CUDA_USE_BINARYBUILDER is deprecated. Call `CUDA.jl.set_runtime_version!` to use a local toolkit.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:201
+┌ Warning: CUDA runtime library `libcudart.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/cuda/12.2/lib64/libcudart.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcupti.so.12.2` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/profilers/Nsight_Systems/target-linux-x64/libcupti.so.12.2`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcublasLt.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/math_libs/12.2/lib64/libcublasLt.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libnvJitLink.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/cuda/12.2/lib64/libnvJitLink.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcusparse.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/math_libs/12.2/lib64/libcusparse.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Error: JULIA_CUDA_USE_BINARYBUILDER is deprecated. Call `CUDA.jl.set_runtime_version!` to use a local toolkit.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:201
+┌ Warning: CUDA runtime library `libcudart.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/cuda/12.2/lib64/libcudart.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcupti.so.12.2` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/profilers/Nsight_Systems/target-linux-x64/libcupti.so.12.2`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcublasLt.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/math_libs/12.2/lib64/libcublasLt.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libnvJitLink.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/cuda/12.2/lib64/libnvJitLink.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcusparse.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/math_libs/12.2/lib64/libcusparse.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Error: JULIA_CUDA_USE_BINARYBUILDER is deprecated. Call `CUDA.jl.set_runtime_version!` to use a local toolkit.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:201
+┌ Warning: CUDA runtime library `libcudart.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/cuda/12.2/lib64/libcudart.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcupti.so.12.2` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/profilers/Nsight_Systems/target-linux-x64/libcupti.so.12.2`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcublasLt.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/math_libs/12.2/lib64/libcublasLt.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libnvJitLink.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/cuda/12.2/lib64/libnvJitLink.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcusparse.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/math_libs/12.2/lib64/libcusparse.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Error: JULIA_CUDA_USE_BINARYBUILDER is deprecated. Call `CUDA.jl.set_runtime_version!` to use a local toolkit.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:201
+┌ Warning: CUDA runtime library `libcudart.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/cuda/12.2/lib64/libcudart.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcupti.so.12.2` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/profilers/Nsight_Systems/target-linux-x64/libcupti.so.12.2`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcublasLt.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/math_libs/12.2/lib64/libcublasLt.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libnvJitLink.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/cuda/12.2/lib64/libnvJitLink.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcusparse.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/math_libs/12.2/lib64/libcusparse.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Error: JULIA_CUDA_USE_BINARYBUILDER is deprecated. Call `CUDA.jl.set_runtime_version!` to use a local toolkit.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:201
+┌ Warning: CUDA runtime library `libcudart.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/cuda/12.2/lib64/libcudart.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcupti.so.12.2` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/profilers/Nsight_Systems/target-linux-x64/libcupti.so.12.2`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcublasLt.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/math_libs/12.2/lib64/libcublasLt.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libnvJitLink.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/cuda/12.2/lib64/libnvJitLink.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcusparse.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/math_libs/12.2/lib64/libcusparse.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Error: JULIA_CUDA_USE_BINARYBUILDER is deprecated. Call `CUDA.jl.set_runtime_version!` to use a local toolkit.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:201
+┌ Warning: CUDA runtime library `libcudart.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/cuda/12.2/lib64/libcudart.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcupti.so.12.2` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/profilers/Nsight_Systems/target-linux-x64/libcupti.so.12.2`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcublasLt.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/math_libs/12.2/lib64/libcublasLt.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libnvJitLink.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/cuda/12.2/lib64/libnvJitLink.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcusparse.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/math_libs/12.2/lib64/libcusparse.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Error: JULIA_CUDA_USE_BINARYBUILDER is deprecated. Call `CUDA.jl.set_runtime_version!` to use a local toolkit.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:201
+┌ Warning: CUDA runtime library `libcudart.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/cuda/12.2/lib64/libcudart.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcupti.so.12.2` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/profilers/Nsight_Systems/target-linux-x64/libcupti.so.12.2`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcublasLt.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/math_libs/12.2/lib64/libcublasLt.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libnvJitLink.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/cuda/12.2/lib64/libnvJitLink.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcusparse.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/math_libs/12.2/lib64/libcusparse.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Error: JULIA_CUDA_USE_BINARYBUILDER is deprecated. Call `CUDA.jl.set_runtime_version!` to use a local toolkit.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:201
+┌ Warning: CUDA runtime library `libcudart.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/cuda/12.2/lib64/libcudart.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcupti.so.12.2` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/profilers/Nsight_Systems/target-linux-x64/libcupti.so.12.2`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcublasLt.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/math_libs/12.2/lib64/libcublasLt.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libnvJitLink.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/cuda/12.2/lib64/libnvJitLink.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcusparse.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/math_libs/12.2/lib64/libcusparse.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Error: JULIA_CUDA_USE_BINARYBUILDER is deprecated. Call `CUDA.jl.set_runtime_version!` to use a local toolkit.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:201
+┌ Warning: CUDA runtime library `libcudart.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/cuda/12.2/lib64/libcudart.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcupti.so.12.2` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/profilers/Nsight_Systems/target-linux-x64/libcupti.so.12.2`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcublasLt.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/math_libs/12.2/lib64/libcublasLt.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libnvJitLink.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/cuda/12.2/lib64/libnvJitLink.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcusparse.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/math_libs/12.2/lib64/libcusparse.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Error: JULIA_CUDA_USE_BINARYBUILDER is deprecated. Call `CUDA.jl.set_runtime_version!` to use a local toolkit.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:201
+┌ Warning: CUDA runtime library `libcudart.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/cuda/12.2/lib64/libcudart.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcupti.so.12.2` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/profilers/Nsight_Systems/target-linux-x64/libcupti.so.12.2`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcublasLt.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/math_libs/12.2/lib64/libcublasLt.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libnvJitLink.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/cuda/12.2/lib64/libnvJitLink.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcusparse.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/math_libs/12.2/lib64/libcusparse.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Error: JULIA_CUDA_USE_BINARYBUILDER is deprecated. Call `CUDA.jl.set_runtime_version!` to use a local toolkit.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:201
+┌ Warning: CUDA runtime library `libcudart.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/cuda/12.2/lib64/libcudart.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcupti.so.12.2` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/profilers/Nsight_Systems/target-linux-x64/libcupti.so.12.2`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcublasLt.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/math_libs/12.2/lib64/libcublasLt.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libnvJitLink.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/cuda/12.2/lib64/libnvJitLink.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+┌ Warning: CUDA runtime library `libcusparse.so.12` was loaded from a system path, `/opt/nvidia/hpc_sdk/Linux_x86_64/23.9/math_libs/12.2/lib64/libcusparse.so.12`.
+│ 
+│ This may cause errors. Ensure that you have not set the LD_LIBRARY_PATH
+│ environment variable, or that it does not contain paths to CUDA libraries.
+│ 
+│ In any other case, please file an issue.
+└ @ CUDA ~/.julia/packages/CUDA/z3j2H/src/initialization.jl:219
+[ Info: Enforcing boundary conditions...
+[ Info: Enforcing boundary conditions...
+[ Info: Enforcing boundary conditions...
+[ Info: Enforcing boundary conditions...
+[ Info: Enforcing boundary conditions...
+[ Info: Enforcing boundary conditions...
+[ Info: Enforcing boundary conditions...
+[ Info: Enforcing boundary conditions...
+[ Info: Enforcing boundary conditions...
+[ Info: Enforcing boundary conditions...
+[ Info: Enforcing boundary conditions...
+[ Info: Enforcing boundary conditions...
+[ Info: Enforcing boundary conditions...
+[ Info: Enforcing boundary conditions...
+[ Info: Enforcing boundary conditions...
+[ Info: Enforcing boundary conditions...
+[ Info: Initializing simulation...
+[ Info: Initializing simulation...
+[ Info: Initializing simulation...
+[ Info: Initializing simulation...
+[ Info: Initializing simulation...
+[ Info: Initializing simulation...
+[ Info: Initializing simulation...
+[ Info: Initializing simulation...
+[ Info: Initializing simulation...
+[ Info: Initializing simulation...
+[ Info: Initializing simulation...
+[ Info: Initializing simulation...
+[ Info: Initializing simulation...
+[ Info: Initializing simulation...
+[ Info: Initializing simulation...
+[ Info: Initializing simulation...
+[ Info: iteration: 0, Δt: 1.100000e+00, wall time: 1.583 minutes (|u|, |v|, |w|): 0.00e+00 0.00e+00 0.00e+00, b: 0.00e+00 
+[ Info:     ... simulation initialization complete (1.806 minutes)
+[ Info: Executing initial time step...
+[ Info: iteration: 0, Δt: 1.100000e+00, wall time: 1.600 minutes (|u|, |v|, |w|): 0.00e+00 0.00e+00 0.00e+00, b: 0.00e+00 
+[ Info:     ... simulation initialization complete (1.804 minutes)
+[ Info: Executing initial time step...
+[ Info: iteration: 0, Δt: 1.100000e+00, wall time: 1.578 minutes (|u|, |v|, |w|): 0.00e+00 0.00e+00 0.00e+00, b: 0.00e+00 
+[ Info:     ... simulation initialization complete (1.810 minutes)
+[ Info: Executing initial time step...
+[ Info: iteration: 0, Δt: 1.100000e+00, wall time: 1.558 minutes (|u|, |v|, |w|): 0.00e+00 0.00e+00 0.00e+00, b: 0.00e+00 
+[ Info:     ... simulation initialization complete (1.819 minutes)
+[ Info: Executing initial time step...
+[ Info: iteration: 0, Δt: 1.100000e+00, wall time: 1.598 minutes (|u|, |v|, |w|): 0.00e+00 0.00e+00 0.00e+00, b: 0.00e+00 
+[ Info:     ... simulation initialization complete (1.814 minutes)
+[ Info: Executing initial time step...
+[ Info: iteration: 0, Δt: 1.100000e+00, wall time: 1.582 minutes (|u|, |v|, |w|): 0.00e+00 0.00e+00 0.00e+00, b: 0.00e+00 
+[ Info:     ... simulation initialization complete (1.813 minutes)
+[ Info: Executing initial time step...
+[ Info: iteration: 0, Δt: 1.100000e+00, wall time: 1.586 minutes (|u|, |v|, |w|): 0.00e+00 0.00e+00 0.00e+00, b: 0.00e+00 
+[ Info:     ... simulation initialization complete (1.813 minutes)
+[ Info: Executing initial time step...
+[ Info: iteration: 0, Δt: 1.100000e+00, wall time: 1.585 minutes (|u|, |v|, |w|): 0.00e+00 0.00e+00 0.00e+00, b: 0.00e+00 
+[ Info:     ... simulation initialization complete (1.815 minutes)
+[ Info: Executing initial time step...
+[ Info: iteration: 0, Δt: 1.100000e+00, wall time: 1.592 minutes (|u|, |v|, |w|): 0.00e+00 0.00e+00 0.00e+00, b: 0.00e+00 
+[ Info:     ... simulation initialization complete (1.818 minutes)
+[ Info: Executing initial time step...
+[ Info: iteration: 0, Δt: 1.100000e+00, wall time: 1.578 minutes (|u|, |v|, |w|): 0.00e+00 0.00e+00 0.00e+00, b: 0.00e+00 
+[ Info:     ... simulation initialization complete (1.815 minutes)
+[ Info: Executing initial time step...
+[ Info: iteration: 0, Δt: 1.100000e+00, wall time: 1.577 minutes (|u|, |v|, |w|): 0.00e+00 0.00e+00 0.00e+00, b: 0.00e+00 
+[ Info:     ... simulation initialization complete (1.815 minutes)
+[ Info: Executing initial time step...
+[ Info: iteration: 0, Δt: 1.100000e+00, wall time: 1.583 minutes (|u|, |v|, |w|): 0.00e+00 0.00e+00 0.00e+00, b: 0.00e+00 
+[ Info:     ... simulation initialization complete (1.814 minutes)
+[ Info: Executing initial time step...
+[ Info: iteration: 0, Δt: 1.100000e+00, wall time: 1.583 minutes (|u|, |v|, |w|): 0.00e+00 0.00e+00 0.00e+00, b: 0.00e+00 
+[ Info:     ... simulation initialization complete (1.816 minutes)
+[ Info: Executing initial time step...
+[ Info: iteration: 0, Δt: 1.100000e+00, wall time: 1.576 minutes (|u|, |v|, |w|): 0.00e+00 0.00e+00 0.00e+00, b: 0.00e+00 
+[ Info:     ... simulation initialization complete (1.819 minutes)
+[ Info: Executing initial time step...
+[ Info: iteration: 0, Δt: 1.100000e+00, wall time: 1.587 minutes (|u|, |v|, |w|): 0.00e+00 0.00e+00 0.00e+00, b: 0.00e+00 
+[ Info:     ... simulation initialization complete (1.819 minutes)
+[ Info: Executing initial time step...
+[ Info: iteration: 0, Δt: 1.100000e+00, wall time: 1.584 minutes (|u|, |v|, |w|): 0.00e+00 0.00e+00 0.00e+00, b: 0.00e+00 
+[ Info:     ... simulation initialization complete (1.820 minutes)
+[ Info: Executing initial time step...
+[ Info:     ... initial time step complete (52.429 seconds).
+[ Info:     ... initial time step complete (51.973 seconds).
+[ Info:     ... initial time step complete (52.477 seconds).
+[ Info:     ... initial time step complete (52.303 seconds).
+[ Info:     ... initial time step complete (52.322 seconds).
+[ Info:     ... initial time step complete (52.305 seconds).
+[ Info:     ... initial time step complete (52.060 seconds).
+[ Info:     ... initial time step complete (52.446 seconds).
+[ Info:     ... initial time step complete (52.415 seconds).
+[ Info:     ... initial time step complete (52.432 seconds).
+[ Info:     ... initial time step complete (52.069 seconds).
+[ Info:     ... initial time step complete (52.582 seconds).
+[ Info:     ... initial time step complete (52.325 seconds).
+[ Info:     ... initial time step complete (52.382 seconds).
+[ Info:     ... initial time step complete (52.296 seconds).
+[ Info:     ... initial time step complete (52.198 seconds).
+[ Info: iteration: 10, Δt: 1.210000e+00, wall time: 1.185 minutes (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.09e-24, b: 2.75e-08 
+[ Info: iteration: 10, Δt: 1.210000e+00, wall time: 1.189 minutes (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.09e-24, b: 2.75e-08 
+[ Info: iteration: 10, Δt: 1.210000e+00, wall time: 1.184 minutes (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.09e-24, b: 2.75e-08 
+[ Info: iteration: 10, Δt: 1.210000e+00, wall time: 1.181 minutes (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.09e-24, b: 2.75e-08 
+[ Info: iteration: 10, Δt: 1.210000e+00, wall time: 1.185 minutes (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.09e-24, b: 2.75e-08 
+[ Info: iteration: 10, Δt: 1.210000e+00, wall time: 1.186 minutes (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.09e-24, b: 2.75e-08 
+[ Info: iteration: 10, Δt: 1.210000e+00, wall time: 1.183 minutes (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.09e-24, b: 2.75e-08 
+[ Info: iteration: 10, Δt: 1.210000e+00, wall time: 1.187 minutes (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.09e-24, b: 2.75e-08 
+[ Info: iteration: 10, Δt: 1.210000e+00, wall time: 1.186 minutes (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.09e-24, b: 2.75e-08 
+[ Info: iteration: 10, Δt: 1.210000e+00, wall time: 1.185 minutes (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.09e-24, b: 2.75e-08 
+[ Info: iteration: 10, Δt: 1.210000e+00, wall time: 1.185 minutes (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.09e-24, b: 2.75e-08 
+[ Info: iteration: 10, Δt: 1.210000e+00, wall time: 1.181 minutes (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.09e-24, b: 2.75e-08 
+[ Info: iteration: 10, Δt: 1.210000e+00, wall time: 1.187 minutes (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.09e-24, b: 2.75e-08 
+[ Info: iteration: 10, Δt: 1.210000e+00, wall time: 1.180 minutes (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.09e-24, b: 2.75e-08 
+[ Info: iteration: 10, Δt: 1.210000e+00, wall time: 1.188 minutes (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.09e-24, b: 2.75e-08 
+[ Info: iteration: 10, Δt: 1.210000e+00, wall time: 1.187 minutes (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.09e-24, b: 2.75e-08 
+[ Info: iteration: 20, Δt: 1.331000e+00, wall time: 20.710 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.25e-24, b: 5.78e-08 
+[ Info: iteration: 20, Δt: 1.331000e+00, wall time: 20.698 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.25e-24, b: 5.78e-08 
+[ Info: iteration: 20, Δt: 1.331000e+00, wall time: 20.694 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.25e-24, b: 5.78e-08 
+[ Info: iteration: 20, Δt: 1.331000e+00, wall time: 20.710 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.25e-24, b: 5.78e-08 
+[ Info: iteration: 20, Δt: 1.331000e+00, wall time: 20.709 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.25e-24, b: 5.78e-08 
+[ Info: iteration: 20, Δt: 1.331000e+00, wall time: 20.710 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.25e-24, b: 5.78e-08 
+[ Info: iteration: 20, Δt: 1.331000e+00, wall time: 20.709 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.25e-24, b: 5.78e-08 
+[ Info: iteration: 20, Δt: 1.331000e+00, wall time: 20.709 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.25e-24, b: 5.78e-08 
+[ Info: iteration: 20, Δt: 1.331000e+00, wall time: 20.710 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.25e-24, b: 5.78e-08 
+[ Info: iteration: 20, Δt: 1.331000e+00, wall time: 20.709 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.25e-24, b: 5.78e-08 
+[ Info: iteration: 20, Δt: 1.331000e+00, wall time: 20.709 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.25e-24, b: 5.78e-08 
+[ Info: iteration: 20, Δt: 1.331000e+00, wall time: 20.709 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.25e-24, b: 5.78e-08 
+[ Info: iteration: 20, Δt: 1.331000e+00, wall time: 20.710 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.25e-24, b: 5.78e-08 
+[ Info: iteration: 20, Δt: 1.331000e+00, wall time: 20.710 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.25e-24, b: 5.78e-08 
+[ Info: iteration: 20, Δt: 1.331000e+00, wall time: 20.702 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.25e-24, b: 5.78e-08 
+[ Info: iteration: 20, Δt: 1.331000e+00, wall time: 20.718 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.25e-24, b: 5.78e-08 
+[ Info: iteration: 30, Δt: 1.464100e+00, wall time: 20.316 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 5.42e-24, b: 9.10e-08 
+[ Info: iteration: 30, Δt: 1.464100e+00, wall time: 20.316 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 5.42e-24, b: 9.10e-08 
+[ Info: iteration: 30, Δt: 1.464100e+00, wall time: 20.316 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 5.42e-24, b: 9.10e-08 
+[ Info: iteration: 30, Δt: 1.464100e+00, wall time: 20.316 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 5.42e-24, b: 9.10e-08 
+[ Info: iteration: 30, Δt: 1.464100e+00, wall time: 20.315 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 5.42e-24, b: 9.10e-08 
+[ Info: iteration: 30, Δt: 1.464100e+00, wall time: 20.316 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 5.42e-24, b: 9.10e-08 
+[ Info: iteration: 30, Δt: 1.464100e+00, wall time: 20.316 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 5.42e-24, b: 9.10e-08 
+[ Info: iteration: 30, Δt: 1.464100e+00, wall time: 20.316 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 5.42e-24, b: 9.10e-08 
+[ Info: iteration: 30, Δt: 1.464100e+00, wall time: 20.321 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 5.42e-24, b: 9.10e-08 
+[ Info: iteration: 30, Δt: 1.464100e+00, wall time: 20.321 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 5.42e-24, b: 9.10e-08 
+[ Info: iteration: 30, Δt: 1.464100e+00, wall time: 20.321 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 5.42e-24, b: 9.10e-08 
+[ Info: iteration: 30, Δt: 1.464100e+00, wall time: 20.321 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 5.42e-24, b: 9.10e-08 
+[ Info: iteration: 30, Δt: 1.464100e+00, wall time: 20.316 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 5.42e-24, b: 9.10e-08 
+[ Info: iteration: 30, Δt: 1.464100e+00, wall time: 20.324 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 5.42e-24, b: 9.10e-08 
+[ Info: iteration: 30, Δt: 1.464100e+00, wall time: 20.324 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 5.42e-24, b: 9.10e-08 
+[ Info: iteration: 30, Δt: 1.464100e+00, wall time: 20.328 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 5.42e-24, b: 9.10e-08 
+[ Info: iteration: 40, Δt: 1.610510e+00, wall time: 20.896 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.07e-23, b: 1.28e-07 
+[ Info: iteration: 40, Δt: 1.610510e+00, wall time: 20.910 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.07e-23, b: 1.28e-07 
+[ Info: iteration: 40, Δt: 1.610510e+00, wall time: 20.910 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.07e-23, b: 1.28e-07 
+[ Info: iteration: 40, Δt: 1.610510e+00, wall time: 20.907 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.07e-23, b: 1.28e-07 
+[ Info: iteration: 40, Δt: 1.610510e+00, wall time: 20.910 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.07e-23, b: 1.28e-07 
+[ Info: iteration: 40, Δt: 1.610510e+00, wall time: 20.907 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.07e-23, b: 1.28e-07 
+[ Info: iteration: 40, Δt: 1.610510e+00, wall time: 20.904 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.07e-23, b: 1.28e-07 
+[ Info: iteration: 40, Δt: 1.610510e+00, wall time: 20.917 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.07e-23, b: 1.28e-07 
+[ Info: iteration: 40, Δt: 1.610510e+00, wall time: 20.917 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.07e-23, b: 1.28e-07 
+[ Info: iteration: 40, Δt: 1.610510e+00, wall time: 20.917 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.07e-23, b: 1.28e-07 
+[ Info: iteration: 40, Δt: 1.610510e+00, wall time: 20.917 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.07e-23, b: 1.28e-07 
+[ Info: iteration: 40, Δt: 1.610510e+00, wall time: 20.917 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.07e-23, b: 1.28e-07 
+[ Info: iteration: 40, Δt: 1.610510e+00, wall time: 20.916 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.07e-23, b: 1.28e-07 
+[ Info: iteration: 40, Δt: 1.610510e+00, wall time: 20.915 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.07e-23, b: 1.28e-07 
+[ Info: iteration: 40, Δt: 1.610510e+00, wall time: 20.926 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.07e-23, b: 1.28e-07 
+[ Info: iteration: 40, Δt: 1.610510e+00, wall time: 20.918 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.07e-23, b: 1.28e-07 
+[ Info: iteration: 50, Δt: 1.771561e+00, wall time: 20.893 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 9.64e-24, b: 1.68e-07 
+[ Info: iteration: 50, Δt: 1.771561e+00, wall time: 20.878 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 9.64e-24, b: 1.68e-07 
+[ Info: iteration: 50, Δt: 1.771561e+00, wall time: 20.893 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 9.64e-24, b: 1.68e-07 
+[ Info: iteration: 50, Δt: 1.771561e+00, wall time: 20.892 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 9.64e-24, b: 1.68e-07 
+[ Info: iteration: 50, Δt: 1.771561e+00, wall time: 20.892 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 9.64e-24, b: 1.68e-07 
+[ Info: iteration: 50, Δt: 1.771561e+00, wall time: 20.883 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 9.64e-24, b: 1.68e-07 
+[ Info: iteration: 50, Δt: 1.771561e+00, wall time: 20.892 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 9.64e-24, b: 1.68e-07 
+[ Info: iteration: 50, Δt: 1.771561e+00, wall time: 20.893 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 9.64e-24, b: 1.68e-07 
+[ Info: iteration: 50, Δt: 1.771561e+00, wall time: 20.884 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 9.64e-24, b: 1.68e-07 
+[ Info: iteration: 50, Δt: 1.771561e+00, wall time: 20.892 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 9.64e-24, b: 1.68e-07 
+[ Info: iteration: 50, Δt: 1.771561e+00, wall time: 20.891 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 9.64e-24, b: 1.68e-07 
+[ Info: iteration: 50, Δt: 1.771561e+00, wall time: 20.886 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 9.64e-24, b: 1.68e-07 
+[ Info: iteration: 50, Δt: 1.771561e+00, wall time: 20.902 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 9.64e-24, b: 1.68e-07 
+[ Info: iteration: 50, Δt: 1.771561e+00, wall time: 20.889 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 9.64e-24, b: 1.68e-07 
+[ Info: iteration: 50, Δt: 1.771561e+00, wall time: 20.907 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 9.64e-24, b: 1.68e-07 
+[ Info: iteration: 50, Δt: 1.771561e+00, wall time: 20.902 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 9.64e-24, b: 1.68e-07 
+[ Info: iteration: 60, Δt: 1.948717e+00, wall time: 20.577 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.40e-23, b: 2.12e-07 
+[ Info: iteration: 60, Δt: 1.948717e+00, wall time: 20.577 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.40e-23, b: 2.12e-07 
+[ Info: iteration: 60, Δt: 1.948717e+00, wall time: 20.577 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.40e-23, b: 2.12e-07 
+[ Info: iteration: 60, Δt: 1.948717e+00, wall time: 20.558 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.40e-23, b: 2.12e-07 
+[ Info: iteration: 60, Δt: 1.948717e+00, wall time: 20.577 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.40e-23, b: 2.12e-07 
+[ Info: iteration: 60, Δt: 1.948717e+00, wall time: 20.577 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.40e-23, b: 2.12e-07 
+[ Info: iteration: 60, Δt: 1.948717e+00, wall time: 20.566 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.40e-23, b: 2.12e-07 
+[ Info: iteration: 60, Δt: 1.948717e+00, wall time: 20.577 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.40e-23, b: 2.12e-07 
+[ Info: iteration: 60, Δt: 1.948717e+00, wall time: 20.566 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.40e-23, b: 2.12e-07 
+[ Info: iteration: 60, Δt: 1.948717e+00, wall time: 20.577 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.40e-23, b: 2.12e-07 
+[ Info: iteration: 60, Δt: 1.948717e+00, wall time: 20.552 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.40e-23, b: 2.12e-07 
+[ Info: iteration: 60, Δt: 1.948717e+00, wall time: 20.577 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.40e-23, b: 2.12e-07 
+[ Info: iteration: 60, Δt: 1.948717e+00, wall time: 20.550 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.40e-23, b: 2.12e-07 
+[ Info: iteration: 60, Δt: 1.948717e+00, wall time: 20.577 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.40e-23, b: 2.12e-07 
+[ Info: iteration: 60, Δt: 1.948717e+00, wall time: 20.579 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.40e-23, b: 2.12e-07 
+[ Info: iteration: 60, Δt: 1.948717e+00, wall time: 20.577 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 1.40e-23, b: 2.12e-07 
+[ Info: iteration: 70, Δt: 2.143589e+00, wall time: 20.391 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.04e-23, b: 2.61e-07 
+[ Info: iteration: 70, Δt: 2.143589e+00, wall time: 20.395 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.04e-23, b: 2.61e-07 
+[ Info: iteration: 70, Δt: 2.143589e+00, wall time: 20.395 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.04e-23, b: 2.61e-07 
+[ Info: iteration: 70, Δt: 2.143589e+00, wall time: 20.395 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.04e-23, b: 2.61e-07 
+[ Info: iteration: 70, Δt: 2.143589e+00, wall time: 20.363 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.04e-23, b: 2.61e-07 
+[ Info: iteration: 70, Δt: 2.143589e+00, wall time: 20.395 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.04e-23, b: 2.61e-07 
+[ Info: iteration: 70, Δt: 2.143589e+00, wall time: 20.395 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.04e-23, b: 2.61e-07 
+[ Info: iteration: 70, Δt: 2.143589e+00, wall time: 20.395 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.04e-23, b: 2.61e-07 
+[ Info: iteration: 70, Δt: 2.143589e+00, wall time: 20.395 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.04e-23, b: 2.61e-07 
+[ Info: iteration: 70, Δt: 2.143589e+00, wall time: 20.395 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.04e-23, b: 2.61e-07 
+[ Info: iteration: 70, Δt: 2.143589e+00, wall time: 20.395 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.04e-23, b: 2.61e-07 
+[ Info: iteration: 70, Δt: 2.143589e+00, wall time: 20.395 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.04e-23, b: 2.61e-07 
+[ Info: iteration: 70, Δt: 2.143589e+00, wall time: 20.395 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.04e-23, b: 2.61e-07 
+[ Info: iteration: 70, Δt: 2.143589e+00, wall time: 20.395 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.04e-23, b: 2.61e-07 
+[ Info: iteration: 70, Δt: 2.143589e+00, wall time: 20.401 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.04e-23, b: 2.61e-07 
+[ Info: iteration: 70, Δt: 2.143589e+00, wall time: 20.395 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.04e-23, b: 2.61e-07 
+[ Info: iteration: 80, Δt: 2.357948e+00, wall time: 20.372 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.08e-23, b: 3.14e-07 
+[ Info: iteration: 80, Δt: 2.357948e+00, wall time: 20.372 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.08e-23, b: 3.14e-07 
+[ Info: iteration: 80, Δt: 2.357948e+00, wall time: 20.372 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.08e-23, b: 3.14e-07 
+[ Info: iteration: 80, Δt: 2.357948e+00, wall time: 20.372 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.08e-23, b: 3.14e-07 
+[ Info: iteration: 80, Δt: 2.357948e+00, wall time: 20.372 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.08e-23, b: 3.14e-07 
+[ Info: iteration: 80, Δt: 2.357948e+00, wall time: 20.372 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.08e-23, b: 3.14e-07 
+[ Info: iteration: 80, Δt: 2.357948e+00, wall time: 20.372 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.08e-23, b: 3.14e-07 
+[ Info: iteration: 80, Δt: 2.357948e+00, wall time: 20.372 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.08e-23, b: 3.14e-07 
+[ Info: iteration: 80, Δt: 2.357948e+00, wall time: 20.372 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.08e-23, b: 3.14e-07 
+[ Info: iteration: 80, Δt: 2.357948e+00, wall time: 20.372 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.08e-23, b: 3.14e-07 
+[ Info: iteration: 80, Δt: 2.357948e+00, wall time: 20.372 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.08e-23, b: 3.14e-07 
+[ Info: iteration: 80, Δt: 2.357948e+00, wall time: 20.360 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.08e-23, b: 3.14e-07 
+[ Info: iteration: 80, Δt: 2.357948e+00, wall time: 20.369 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.08e-23, b: 3.14e-07 
+[ Info: iteration: 80, Δt: 2.357948e+00, wall time: 20.375 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.08e-23, b: 3.14e-07 
+[ Info: iteration: 80, Δt: 2.357948e+00, wall time: 20.372 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.08e-23, b: 3.14e-07 
+[ Info: iteration: 80, Δt: 2.357948e+00, wall time: 20.391 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 2.08e-23, b: 3.14e-07 
+[ Info: iteration: 90, Δt: 2.593742e+00, wall time: 21.449 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 3.12e-23, b: 3.73e-07 
+[ Info: iteration: 90, Δt: 2.593742e+00, wall time: 21.449 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 3.12e-23, b: 3.73e-07 
+[ Info: iteration: 90, Δt: 2.593742e+00, wall time: 21.447 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 3.12e-23, b: 3.73e-07 
+[ Info: iteration: 90, Δt: 2.593742e+00, wall time: 21.446 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 3.12e-23, b: 3.73e-07 
+[ Info: iteration: 90, Δt: 2.593742e+00, wall time: 21.449 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 3.12e-23, b: 3.73e-07 
+[ Info: iteration: 90, Δt: 2.593742e+00, wall time: 21.431 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 3.12e-23, b: 3.73e-07 
+[ Info: iteration: 90, Δt: 2.593742e+00, wall time: 21.449 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 3.12e-23, b: 3.73e-07 
+[ Info: iteration: 90, Δt: 2.593742e+00, wall time: 21.442 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 3.12e-23, b: 3.73e-07 
+[ Info: iteration: 90, Δt: 2.593742e+00, wall time: 21.449 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 3.12e-23, b: 3.73e-07 
+[ Info: iteration: 90, Δt: 2.593742e+00, wall time: 21.449 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 3.12e-23, b: 3.73e-07 
+[ Info: iteration: 90, Δt: 2.593742e+00, wall time: 21.449 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 3.12e-23, b: 3.73e-07 
+[ Info: iteration: 90, Δt: 2.593742e+00, wall time: 21.449 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 3.12e-23, b: 3.73e-07 
+[ Info: iteration: 90, Δt: 2.593742e+00, wall time: 21.449 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 3.12e-23, b: 3.73e-07 
+[ Info: iteration: 90, Δt: 2.593742e+00, wall time: 21.450 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 3.12e-23, b: 3.73e-07 
+[ Info: iteration: 90, Δt: 2.593742e+00, wall time: 21.455 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 3.12e-23, b: 3.73e-07 
+[ Info: iteration: 90, Δt: 2.593742e+00, wall time: 21.463 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 3.12e-23, b: 3.73e-07 
+[ Info: Simulation is stopping after running for 6.062 minutes.
+[ Info: Model iteration 100 equals or exceeds stop iteration 100.
+[ Info: Simulation is stopping after running for 6.062 minutes.
+[ Info: Model iteration 100 equals or exceeds stop iteration 100.
+[ Info: Simulation is stopping after running for 6.063 minutes.
+[ Info: Model iteration 100 equals or exceeds stop iteration 100.
+[ Info: Simulation is stopping after running for 6.068 minutes.
+[ Info: Model iteration 100 equals or exceeds stop iteration 100.
+[ Info: Simulation is stopping after running for 6.055 minutes.
+[ Info: Model iteration 100 equals or exceeds stop iteration 100.
+[ Info: Simulation is stopping after running for 6.062 minutes.
+[ Info: Model iteration 100 equals or exceeds stop iteration 100.
+[ Info: Simulation is stopping after running for 6.060 minutes.
+[ Info: Model iteration 100 equals or exceeds stop iteration 100.
+[ Info: Simulation is stopping after running for 6.063 minutes.
+[ Info: Model iteration 100 equals or exceeds stop iteration 100.
+[ Info: Simulation is stopping after running for 6.062 minutes.
+[ Info: Model iteration 100 equals or exceeds stop iteration 100.
+[ Info: Simulation is stopping after running for 6.063 minutes.
+[ Info: Model iteration 100 equals or exceeds stop iteration 100.
+[ Info: Simulation is stopping after running for 6.062 minutes.
+[ Info: Model iteration 100 equals or exceeds stop iteration 100.
+[ Info: Simulation is stopping after running for 6.058 minutes.
+[ Info: Model iteration 100 equals or exceeds stop iteration 100.
+[ Info: Simulation is stopping after running for 6.065 minutes.
+[ Info: Model iteration 100 equals or exceeds stop iteration 100.
+[ Info: Simulation is stopping after running for 6.061 minutes.
+[ Info: Model iteration 100 equals or exceeds stop iteration 100.
+[ Info: Simulation is stopping after running for 6.062 minutes.
+[ Info: Model iteration 100 equals or exceeds stop iteration 100.
+[ Info: Simulation is stopping after running for 6.061 minutes.
+[ Info: Model iteration 100 equals or exceeds stop iteration 100.
+[ Info: iteration: 100, Δt: 2.853117e+00, wall time: 20.161 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 3.79e-23, b: 4.38e-07 
+[ Info: iteration: 100, Δt: 2.853117e+00, wall time: 20.147 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 3.79e-23, b: 4.38e-07 
+[ Info: iteration: 100, Δt: 2.853117e+00, wall time: 20.112 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 3.79e-23, b: 4.38e-07 
+[ Info: iteration: 100, Δt: 2.853117e+00, wall time: 20.161 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 3.79e-23, b: 4.38e-07 
+[ Info: iteration: 100, Δt: 2.853117e+00, wall time: 20.161 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 3.79e-23, b: 4.38e-07 
+[ Info: iteration: 100, Δt: 2.853117e+00, wall time: 20.161 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 3.79e-23, b: 4.38e-07 
+[ Info: iteration: 100, Δt: 2.853117e+00, wall time: 20.161 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 3.79e-23, b: 4.38e-07 
+[ Info: iteration: 100, Δt: 2.853117e+00, wall time: 20.161 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 3.79e-23, b: 4.38e-07 
+[ Info: iteration: 100, Δt: 2.853117e+00, wall time: 20.164 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 3.79e-23, b: 4.38e-07 
+[ Info: iteration: 100, Δt: 2.853117e+00, wall time: 20.164 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 3.79e-23, b: 4.38e-07 
+[ Info: iteration: 100, Δt: 2.853117e+00, wall time: 20.164 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 3.79e-23, b: 4.38e-07 
+[ Info: iteration: 100, Δt: 2.853117e+00, wall time: 20.164 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 3.79e-23, b: 4.38e-07 
+[ Info: iteration: 100, Δt: 2.853117e+00, wall time: 20.163 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 3.79e-23, b: 4.38e-07 
+[ Info: iteration: 100, Δt: 2.853117e+00, wall time: 20.164 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 3.79e-23, b: 4.38e-07 
+[ Info: iteration: 100, Δt: 2.853117e+00, wall time: 20.174 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 3.79e-23, b: 4.38e-07 
+[ Info: iteration: 100, Δt: 2.853117e+00, wall time: 20.174 seconds (|u|, |v|, |w|): 0.00e+00 0.00e+00 3.79e-23, b: 4.38e-07 
+Failed to create '/pscratch/sd/s/ssilvest/LESscalingTests.jl/./new_reports2/report_RX8_RY2.nsys-rep': File exists.
+Use `--force-overwrite true` to overwrite existing files.
+Failed to create '/pscratch/sd/s/ssilvest/LESscalingTests.jl/./new_reports2/report_RX8_RY2.nsys-rep': File exists.
+Use `--force-overwrite true` to overwrite existing files.
+Failed to create '/pscratch/sd/s/ssilvest/LESscalingTests.jl/./new_reports2/report_RX8_RY2.nsys-rep': File exists.
+Use `--force-overwrite true` to overwrite existing files.
+Failed to create '/pscratch/sd/s/ssilvest/LESscalingTests.jl/./new_reports2/report_RX8_RY2.nsys-rep': File exists.
+Use `--force-overwrite true` to overwrite existing files.
+Failed to create '/pscratch/sd/s/ssilvest/LESscalingTests.jl/./new_reports2/report_RX8_RY2.nsys-rep': File exists.
+Use `--force-overwrite true` to overwrite existing files.
+Failed to create '/pscratch/sd/s/ssilvest/LESscalingTests.jl/./new_reports2/report_RX8_RY2.nsys-rep': File exists.
+Use `--force-overwrite true` to overwrite existing files.
+Failed to create '/pscratch/sd/s/ssilvest/LESscalingTests.jl/./new_reports2/report_RX8_RY2.nsys-rep': File exists.
+Use `--force-overwrite true` to overwrite existing files.
+Failed to create '/pscratch/sd/s/ssilvest/LESscalingTests.jl/./new_reports2/report_RX8_RY2.nsys-rep': File exists.
+Use `--force-overwrite true` to overwrite existing files.
+Failed to create '/pscratch/sd/s/ssilvest/LESscalingTests.jl/./new_reports2/report_RX8_RY2.nsys-rep': File exists.
+Use `--force-overwrite true` to overwrite existing files.
+Failed to create '/pscratch/sd/s/ssilvest/LESscalingTests.jl/./new_reports2/report_RX8_RY2.nsys-rep': File exists.
+Use `--force-overwrite true` to overwrite existing files.
+Failed to create '/pscratch/sd/s/ssilvest/LESscalingTests.jl/./new_reports2/report_RX8_RY2.nsys-rep': File exists.
+Use `--force-overwrite true` to overwrite existing files.
+Failed to create '/pscratch/sd/s/ssilvest/LESscalingTests.jl/./new_reports2/report_RX8_RY2.nsys-rep': File exists.
+Use `--force-overwrite true` to overwrite existing files.
+Failed to create '/pscratch/sd/s/ssilvest/LESscalingTests.jl/./new_reports2/report_RX8_RY2.nsys-rep': File exists.
+Use `--force-overwrite true` to overwrite existing files.
+Failed to create '/pscratch/sd/s/ssilvest/LESscalingTests.jl/./new_reports2/report_RX8_RY2.nsys-rep': File exists.
+Use `--force-overwrite true` to overwrite existing files.
+Failed to create '/pscratch/sd/s/ssilvest/LESscalingTests.jl/./new_reports2/report_RX8_RY2.nsys-rep': File exists.
+Use `--force-overwrite true` to overwrite existing files.
+slurmstepd: error: *** STEP 33890110.0 ON nid003648 CANCELLED AT 2024-12-14T04:06:20 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 33890110 ON nid003648 CANCELLED AT 2024-12-14T04:06:20 DUE TO TIME LIMIT ***
+No transition in N5Agent6Client3FSM8Profiler8ShutdownE (1) for N5Agent6Client3FSM9InterruptE.
+No transition in N5Agent6Client3FSM8Profiler8ShutdownE (1) for N5Agent6Client3FSM9InterruptE.
+No transition in N5Agent6Client3FSM8Profiler8ShutdownE (1) for N5Agent6Client3FSM9InterruptE.
+No transition in N5Agent6Client3FSM8Profiler8ShutdownE (1) for N5Agent6Client3FSM9InterruptE.
+No transition in N5Agent6Client3FSM8Profiler8ShutdownE (1) for N5Agent6Client3FSM9InterruptE.
+No transition in N5Agent6Client3FSM8Profiler8ShutdownE (1) for N5Agent6Client3FSM9InterruptE.
+No transition in N5Agent6Client3FSM8Profiler8ShutdownE (1) for N5Agent6Client3FSM9InterruptE.
+No transition in N5Agent6Client3FSM8Profiler8ShutdownE (1) for N5Agent6Client3FSM9InterruptE.
+No transition in N5Agent6Client3FSM8Profiler8ShutdownE (1) for N5Agent6Client3FSM9InterruptE.
+No transition in N5Agent6Client3FSM8Profiler8ShutdownE (1) for N5Agent6Client3FSM9InterruptE.
+No transition in N5Agent6Client3FSM8Profiler8ShutdownE (1) for N5Agent6Client3FSM9InterruptE.
