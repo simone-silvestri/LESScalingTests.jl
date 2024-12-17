@@ -21,8 +21,9 @@ function run_performance_simulation(grid_size, ranks;
                                     CFL = 0.75)
     
     N = grid_size
-    
-    arch  = Distributed(GPU(); partition = Partition(ranks...))
+    device_arch = GPU() 
+
+    arch  = Distributed(device_arch; partition = Partition(ranks...))
     grid  = RectilinearGrid(arch; size = N, x = (0, 4096),
 			    		    y = (-2048, 2048),
 					        z = (-512, 0), topology, halo = (4, 4, 4))
@@ -33,12 +34,10 @@ function run_performance_simulation(grid_size, ranks;
     b_bcs = FieldBoundaryConditions(top = FluxBoundaryCondition(5e-9), 
                                     bottom = GradientBoundaryCondition(4e-6))
 
-    params = (; N², Δb, Ly, λ = 10days)
-
     model = NonhydrostaticModel(; grid, 
                                   advection = WENO(order = 7), 
                                   coriolis = FPlane(f = -1e-5),
-				                  tracers = :b, 
+				  tracers = :b, 
                                   closure,
                                   buoyancy = BuoyancyTracer(),
                                   boundary_conditions = (; b = b_bcs),

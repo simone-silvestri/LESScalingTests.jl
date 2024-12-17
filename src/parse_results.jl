@@ -1,8 +1,7 @@
 
-function average_execution_time(ranks, size; folder = "results/")
+function average_execution_time(ranks; folder = "./")
     Rx, Ry = ranks
-    Nx, Ny = size
-    file = open(folder * "error_RX$(Rx)_RY$(Ry)_NX$(Nx)_NY$(Ny)")
+    file = open(folder * "error_RX$(Rx)_RY$(Ry)")
 
     lines = readlines(file)
     line_start = 1
@@ -27,16 +26,38 @@ function average_execution_time(ranks, size; folder = "results/")
 end
 
 function perlmutter_scaling_tests()
-    ranks = ((1, 1), (2, 1), (2, 2), 
-             (4, 1), (1, 4), (2, 4), 
-             (4, 2), (8, 1), (1, 8),
-             (16, 8), (16, 16), (64, 1))
-    
+    files = readdir("./")
+    files = filter(x -> length(x) > 8, files)
+    files = filter(x -> x[1:8] == "error_RX", files)
+    files = filter.(x -> '0'<=x<='9', files)
+
+    ranks = [(16, 1),
+	     (16, 16),
+	     (16,2),
+	     (16,8),
+	     (1,1),
+	     (1,2),
+	     (1,4),
+	     (1,8),
+	     (2,1),
+	     (2,16),
+	     (2,4),
+	     (32,16),
+	     (32,32),
+	     (4,1),
+	     (4,2),
+	     (64,1),
+	     (64,32),
+	     (64,64),
+	     (8,1),
+	     (8,2),
+	     (8,8)]
+
     sizes = Tuple(r .* (512, 512) for r in ranks)
     times = zeros(length(ranks))
 
     for i in eachindex(ranks)
-        times[i] = average_execution_time(ranks[i], sizes[i])
+        times[i] = average_execution_time(ranks[i]; folder = "./")
     end
 
     rx = Float64[ranks[i][1] for i in eachindex(ranks)]
